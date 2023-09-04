@@ -1,4 +1,4 @@
-name: CI #test
+name: CI
 on:
   schedule:
     - cron: '0 21 * * *'
@@ -42,9 +42,11 @@ jobs:
         run: |
           python util/cli.py check -I -U -E
 
-      - name: Index and Push
+      - name: Push
         run: |
-          python util/cli.py index --push
+          git add .
+          git commit -m "Update by CI"
+          git push
           
       - name: Upload logs
         if: success()
