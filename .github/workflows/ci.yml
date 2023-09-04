@@ -42,11 +42,9 @@ jobs:
         run: |
           python util/cli.py check -I -U -E
 
-      - name: Push
+      - name: Index and Push
         run: |
-          git add .
-          git commit -m "Update by CI"
-          git push
+          python util/cli.py index --push --branch main
           
       - name: Upload logs
         if: success()
