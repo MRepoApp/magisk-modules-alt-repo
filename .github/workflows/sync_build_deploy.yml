@@ -46,7 +46,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
 
       - name: Set up SSH
-        uses: MrSquaare/ssh-setup-action@v2
+        uses: MrSquaare/ssh-setup-action@v3
         with:
           host: github.com
           private-key: ${{ secrets.SSH_PRIVATE_KEY }}
