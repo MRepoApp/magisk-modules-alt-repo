@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo (mirror)",
-  "timestamp": 1719068486204,
+  "timestamp": 1719071302098,
   "metadata": {
     "homepage": "https://github.com/MRepoApp/magisk-modules-alt-repo",
     "support": "https://github.com/MRepoApp/magisk-modules-alt-repo/issues"
@@ -69,7 +69,7 @@
           "version": "v1.3 (4)",
           "version_code": 4,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/AFWall-Boot-AntiLeak/4.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/AFWall-Boot-AntiLeak/"
+          "changelog": ""
         }
       ]
     },
@@ -135,7 +135,7 @@
           "version": "v1.0 (1)",
           "version_code": 1,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/backup/1.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/backup/"
+          "changelog": ""
         }
       ]
     },
@@ -157,7 +157,7 @@
           "version": "MIUI12 v1 (1)",
           "version_code": 1,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Better-MIUI-Icons/1.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Better-MIUI-Icons/"
+          "changelog": ""
         }
       ]
     },
@@ -201,7 +201,7 @@
           "version": "v3 (3)",
           "version_code": 3,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ByeBlur/3.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ByeBlur/"
+          "changelog": ""
         }
       ]
     },
@@ -222,7 +222,7 @@
           "version": "v1.0 (1)",
           "version_code": 1,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/charch/1.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/charch/"
+          "changelog": ""
         }
       ]
     },
@@ -244,7 +244,7 @@
           "version": "v1.1 (2)",
           "version_code": 2,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/charch_dinit/2.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/charch_dinit/"
+          "changelog": ""
         }
       ]
     },
@@ -266,7 +266,7 @@
           "version": "v1.1 (2)",
           "version_code": 2,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/charch_openrc/2.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/charch_openrc/"
+          "changelog": ""
         }
       ]
     },
@@ -288,7 +288,7 @@
           "version": "v1.0 (1)",
           "version_code": 1,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/charch_sshd/1.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/charch_sshd/"
+          "changelog": ""
         }
       ]
     },
@@ -309,7 +309,7 @@
           "version": "1.0.0 (2)",
           "version_code": 2,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/chroot-distro/2.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/chroot-distro/"
+          "changelog": ""
         }
       ]
     },
@@ -353,7 +353,7 @@
           "version": "v1.0 (1)",
           "version_code": 1,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/cmdpatch/1.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/cmdpatch/"
+          "changelog": ""
         }
       ]
     },
@@ -440,7 +440,7 @@
           "version": "v2 (2)",
           "version_code": 2,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/DalvikHyperthreading/2.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/DalvikHyperthreading/"
+          "changelog": ""
         }
       ]
     },
@@ -483,7 +483,7 @@
           "version": "1.2 (3)",
           "version_code": 3,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/data_isolation_support/3.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/data_isolation_support/"
+          "changelog": ""
         }
       ]
     },
@@ -572,7 +572,7 @@
           "version": "v2021.11.3 (202111030)",
           "version_code": 202111030,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/djs/202111030.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/djs/"
+          "changelog": ""
         }
       ]
     },
@@ -615,7 +615,7 @@
           "version": "v0.0.1 (13)",
           "version_code": 13,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Evolve-Evo/13.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Evolve-Evo/"
+          "changelog": ""
         }
       ]
     },
@@ -637,7 +637,7 @@
           "version": "v1 (1000)",
           "version_code": 1000,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ezme-dex-space/1000.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ezme-dex-space/"
+          "changelog": ""
         }
       ]
     },
@@ -659,7 +659,7 @@
           "version": "v1 (1000)",
           "version_code": 1000,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ezme-nodebug/1000.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ezme-nodebug/"
+          "changelog": ""
         }
       ]
     },
@@ -681,7 +681,7 @@
           "version": "0.1 (1)",
           "version_code": 1,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/faina/1.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/faina/"
+          "changelog": ""
         }
       ]
     },
@@ -705,7 +705,7 @@
           "version": "v2021.12.6 (202112060)",
           "version_code": 202112060,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/vr25.fbind/202112060.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/vr25.fbind/"
+          "changelog": ""
         }
       ]
     },
@@ -748,7 +748,7 @@
           "version": "v1.5 (50620)",
           "version_code": 50620,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/FOSSAPPS/50620.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/FOSSAPPS/"
+          "changelog": ""
         }
       ]
     },
@@ -769,7 +769,7 @@
           "version": "1.2 (3)",
           "version_code": 3,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/frozen_magisk_app/3.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/frozen_magisk_app/"
+          "changelog": ""
         }
       ]
     },
@@ -791,7 +791,7 @@
           "version": "vFINAL (5)",
           "version_code": 5,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/gaming/5.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/gaming/"
+          "changelog": ""
         }
       ]
     },
@@ -812,7 +812,7 @@
           "version": "1.1 (110)",
           "version_code": 110,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/GlitchedCyberBoot/110.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/GlitchedCyberBoot/"
+          "changelog": ""
         }
       ]
     },
@@ -878,7 +878,7 @@
           "version": "v1.0 (1)",
           "version_code": 1,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Google-Sans/1.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Google-Sans/"
+          "changelog": ""
         }
       ]
     },
@@ -900,7 +900,7 @@
           "version": "v1.0 (1)",
           "version_code": 1,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Google-Sans-Plus/1.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Google-Sans-Plus/"
+          "changelog": ""
         }
       ]
     },
@@ -922,7 +922,7 @@
           "version": "1.0 (1)",
           "version_code": 1,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Google_Product_Sans_Font/1.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Google_Product_Sans_Font/"
+          "changelog": ""
         }
       ]
     },
@@ -943,7 +943,7 @@
           "version": "v2.0.2 (202)",
           "version_code": 202,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/heimdall-ndk/202.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/heimdall-ndk/"
+          "changelog": ""
         }
       ]
     },
@@ -965,7 +965,7 @@
           "version": "v27.3 (67)",
           "version_code": 67,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/HideNavBar/67.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/HideNavBar/"
+          "changelog": ""
         }
       ]
     },
@@ -986,7 +986,7 @@
           "version": "2.1 (21)",
           "version_code": 21,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/isodrive/21.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/isodrive/"
+          "changelog": ""
         }
       ]
     },
@@ -1008,7 +1008,7 @@
           "version": "0.1 (1)",
           "version_code": 1,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/kaina/1.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/kaina/"
+          "changelog": ""
         }
       ]
     },
@@ -1030,7 +1030,7 @@
           "version": "v2.2.0 (1)",
           "version_code": 1,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/lhroot/1.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/lhroot/"
+          "changelog": ""
         }
       ]
     },
@@ -1074,7 +1074,7 @@
           "version": "v1 (1)",
           "version_code": 1,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/MacRandomizationEnabler/1.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/MacRandomizationEnabler/"
+          "changelog": ""
         }
       ]
     },
@@ -1096,7 +1096,7 @@
           "version": "v1.6 (10006)",
           "version_code": 10006,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/magic-flash/10006.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/magic-flash/"
+          "changelog": ""
         }
       ]
     },
@@ -1118,7 +1118,7 @@
           "version": "v1.0.0 (100)",
           "version_code": 100,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/magisk-captive-control/100.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/magisk-captive-control/"
+          "changelog": ""
         }
       ]
     },
@@ -1141,7 +1141,7 @@
           "version": "v1.3.1 (131)",
           "version_code": 131,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/magisk-drm-disabler/131.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/magisk-drm-disabler/"
+          "changelog": ""
         }
       ]
     },
@@ -1230,7 +1230,7 @@
           "version": "2.3 (10)",
           "version_code": 10,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/magisk_proc_monitor/10.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/magisk_proc_monitor/"
+          "changelog": ""
         }
       ]
     },
@@ -1272,7 +1272,7 @@
           "version": "v0.2.28.231657 (29)",
           "version_code": 29,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/microG-GApps/29.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/microG-GApps/"
+          "changelog": ""
         }
       ]
     },
@@ -1315,7 +1315,7 @@
           "version": "v6.64.3_at20240323 (29)",
           "version_code": 29,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/MiXplorer/29.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/MiXplorer/"
+          "changelog": ""
         }
       ]
     },
@@ -1338,7 +1338,7 @@
           "version": "1.5.14 (1514)",
           "version_code": 1514,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/mkshrc/1514.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/mkshrc/"
+          "changelog": ""
         }
       ]
     },
@@ -1405,7 +1405,7 @@
           "version": "1.5.5 (155)",
           "version_code": 155,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/node_on_android/155.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/node_on_android/"
+          "changelog": ""
         }
       ]
     },
@@ -1426,7 +1426,7 @@
           "version": "v5 (6)",
           "version_code": 6,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/NoStorageRestrict/6.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/NoStorageRestrict/"
+          "changelog": ""
         }
       ]
     },
@@ -1447,7 +1447,7 @@
           "version": "v1.5.2 (152)",
           "version_code": 152,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/OneController/152.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/OneController/"
+          "changelog": ""
         }
       ]
     },
@@ -1559,7 +1559,7 @@
           "version": "v1.2 (1)",
           "version_code": 1,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/pdx213_assistant_camera_remap/1.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/pdx213_assistant_camera_remap/"
+          "changelog": ""
         }
       ]
     },
@@ -1581,7 +1581,7 @@
           "version": "v2.4 (24)",
           "version_code": 24,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/perf-limit-xiaomi-12/24.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/perf-limit-xiaomi-12/"
+          "changelog": ""
         }
       ]
     },
@@ -1603,7 +1603,7 @@
           "version": "v2.1.0 (210)",
           "version_code": 210,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/pixel-tensor-audio-decompressor/210.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/pixel-tensor-audio-decompressor/"
+          "changelog": ""
         }
       ]
     },
@@ -1624,7 +1624,7 @@
           "version": "v1 (1)",
           "version_code": 1,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/1.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/"
+          "changelog": ""
         }
       ]
     },
@@ -1645,7 +1645,7 @@
           "version": "v1.0 (20220806)",
           "version_code": 20220806,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/qdl-ndk/20220806.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/qdl-ndk/"
+          "changelog": ""
         }
       ]
     },
@@ -1733,7 +1733,7 @@
           "version": "v1.1 (2)",
           "version_code": 2,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/saturation/2.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/saturation/"
+          "changelog": ""
         }
       ]
     },
@@ -1777,7 +1777,7 @@
           "version": "v3 (3)",
           "version_code": 3,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/sensitive_props/3.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/sensitive_props/"
+          "changelog": ""
         }
       ]
     },
@@ -1799,7 +1799,7 @@
           "version": "v2 (3)",
           "version_code": 3,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/simple_bootloopsaver/3.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/simple_bootloopsaver/"
+          "changelog": ""
         }
       ]
     },
@@ -1820,7 +1820,7 @@
           "version": "v1 (1)",
           "version_code": 1,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/smallbattery/1.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/smallbattery/"
+          "changelog": ""
         }
       ]
     },
@@ -1842,7 +1842,7 @@
           "version": "v3.46.0 (20240615)",
           "version_code": 20240615,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/sqlite3/20240615.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/sqlite3/"
+          "changelog": ""
         }
       ]
     },
@@ -2022,7 +2022,7 @@
           "version": "v15.0.2 (1502)",
           "version_code": 1502,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ttf-twemoji/1502.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ttf-twemoji/"
+          "changelog": ""
         }
       ]
     },
@@ -2044,7 +2044,7 @@
           "version": "v1.0.1 (1)",
           "version_code": 1,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/UbuntuFontVinaooo/1.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/UbuntuFontVinaooo/"
+          "changelog": ""
         }
       ]
     },
@@ -2065,7 +2065,7 @@
           "version": "6.0 (6)",
           "version_code": 6,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/unityfix/6.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/unityfix/"
+          "changelog": ""
         }
       ]
     },
@@ -2086,7 +2086,7 @@
           "version": "v3.96 (396)",
           "version_code": 396,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/upx-ndk/396.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/upx-ndk/"
+          "changelog": ""
         }
       ]
     },
@@ -2130,7 +2130,7 @@
           "version": "v1.1 (2)",
           "version_code": 2,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/vintf-bypass/2.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/vintf-bypass/"
+          "changelog": ""
         }
       ]
     },
@@ -2151,7 +2151,7 @@
           "version": "v8 (8)",
           "version_code": 8,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/wifi-bonding/8.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/wifi-bonding/"
+          "changelog": ""
         }
       ]
     },
@@ -2174,7 +2174,7 @@
           "version": "v0.22.0 (221)",
           "version_code": 221,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/xhhttp/221.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/xhhttp/"
+          "changelog": ""
         }
       ]
     },
@@ -2218,7 +2218,7 @@
           "version": "v10 (1)",
           "version_code": 1,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/YAKT/1.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/YAKT/"
+          "changelog": ""
         }
       ]
     },
@@ -2239,7 +2239,7 @@
           "version": "5.38.53 (2)",
           "version_code": 2,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ytmusic_revancedinject/2.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ytmusic_revancedinject/"
+          "changelog": ""
         }
       ]
     },
@@ -2260,7 +2260,7 @@
           "version": "18.01.36 (4)",
           "version_code": 4,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ytrevancedinject/4.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ytrevancedinject/"
+          "changelog": ""
         }
       ]
     }
