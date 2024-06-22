@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import json
+import shutil
 import subprocess
 from argparse import ArgumentParser
 from datetime import datetime, UTC
@@ -20,17 +21,22 @@ class Git:
 
         self._modules_json = self._json_dir.joinpath(MODULES_JSON)
 
-    def add_all(self):
-        self.add(f"{JSON_DIR}/{MODULES_JSON}")
+    def remove(self):
         for module_dir in sorted(self._modules_dir.glob("[!.]*/")):
             if self.skip_it(module_dir):
-                continue
-            else:
-                self.add(f"{MODULES_DIR}/{module_dir.name}")
+                print(f"remove: {module_dir.name}")
+                shutil.rmtree(module_dir, ignore_errors=True)
 
-    def add(self, path: str):
+    def upgrade(self):
         subprocess.run(
-            args=["git", "add", path],
+            args=["mrepo", "upgrade", "--pretty"],
+            check=True,
+            cwd=self._cwd_dir
+        )
+
+    def add(self):
+        subprocess.run(
+            args=["git", "add", '--all'],
             check=True,
             cwd=self._cwd_dir
         )
@@ -84,7 +90,9 @@ class Main:
         working_dir = Path(args.working_dir)
 
         git = Git(working_dir)
-        git.add_all()
+        git.remove()
+        git.upgrade()
+        git.add()
         git.commit()
 
 

@@ -40,7 +40,6 @@ jobs:
       - name: Sync
         run: |
           mrepo update --ssh-key='${{ secrets.SSH_PRIVATE_KEY }}'
-          mrepo upgrade --pretty
 
       - name: Push
         run: |
