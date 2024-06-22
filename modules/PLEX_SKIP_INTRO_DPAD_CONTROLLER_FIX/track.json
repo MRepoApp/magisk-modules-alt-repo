@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX",
+    "name": "Plex \"Skip Intro\" DPad Controller Fix",
+    "version": "v1",
+    "version_code": 1,
+    "author": "OhMyBahGosh",
+    "description": "Magisk module that maps key code 28 to \"DPAD_ENTER\" instead of \"ENTER\".  This allows for the DPad \"OK\" button to work properly, so that when you press the \"OK\" button, it actually presses the \"Skip Intro\" button.  This fixes a very annoying, and long ignored issue encountered when using a DPad controller inside PLEX on Android TV.  Without this module, when you press the \"OK\" button on a DPad Controller when the \"Skip Intro\" button appears in plex, it'll bring up player controls instead of actually skipping the intro."
+  },
+  "versions": [
+    {
+      "timestamp": 1645367235000,
+      "version": "v1 (1)",
+      "version_code": 1,
+      "zip_file": "1.zip",
+      "changelog": ""
+    }
+  ]
+}

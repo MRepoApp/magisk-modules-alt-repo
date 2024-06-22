@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "kaina",
+    "name": "Writable MicroSD",
+    "version": "0.1",
+    "version_code": 1,
+    "author": "Kartatz",
+    "description": "Allow Android apps holding the WRITE_EXTERNAL_STORAGE permission to read and write on the MicroSD card."
+  },
+  "versions": [
+    {
+      "timestamp": 1710968944000,
+      "version": "0.1 (1)",
+      "version_code": 1,
+      "zip_file": "1.zip",
+      "changelog": ""
+    }
+  ]
+}

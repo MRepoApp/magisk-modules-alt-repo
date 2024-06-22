@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "MacRandomizationEnabler",
+    "name": "MacRandomizationEnabler",
+    "version": "v1",
+    "version_code": 1,
+    "author": "63c",
+    "description": "Enable Mac Randomization on device's it's been left disabled."
+  },
+  "versions": [
+    {
+      "timestamp": 1598109398000,
+      "version": "v1 (1)",
+      "version_code": 1,
+      "zip_file": "1.zip",
+      "changelog": ""
+    }
+  ]
+}

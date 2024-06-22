@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "ttf-twemoji",
+    "name": "Twemoji replacer",
+    "version": "v15.0.2",
+    "version_code": 1502,
+    "author": "ez-me & Twitter",
+    "description": "Changes your system emoji to Twemoji!"
+  },
+  "versions": [
+    {
+      "timestamp": 1701825089000,
+      "version": "v15.0.2 (1502)",
+      "version_code": 1502,
+      "zip_file": "1502.zip",
+      "changelog": ""
+    }
+  ]
+}

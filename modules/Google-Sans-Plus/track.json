@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "Google-Sans-Plus",
+    "name": "Google Sans Plus",
+    "version": "v1.0",
+    "version_code": 1,
+    "author": "SourajitK",
+    "description": "Apply Google Sans everywhere, systemlessly. (also contains leaked A11 emojis)"
+  },
+  "versions": [
+    {
+      "timestamp": 1598227265000,
+      "version": "v1.0 (1)",
+      "version_code": 1,
+      "zip_file": "1.zip",
+      "changelog": ""
+    }
+  ]
+}

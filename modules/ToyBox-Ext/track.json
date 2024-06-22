@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "ToyBox-Ext",
+    "name": "ToyBox (Ext)",
+    "version": "1.0.9",
+    "version_code": 109,
+    "author": "zgfg @ xda",
+    "description": "Additional toybox applets. SUPPORTED: ARMv7 and higher, all Android versions"
+  },
+  "versions": [
+    {
+      "timestamp": 1691426606000,
+      "version": "1.0.9 (109)",
+      "version_code": 109,
+      "zip_file": "109.zip",
+      "changelog": "109.md"
+    }
+  ]
+}

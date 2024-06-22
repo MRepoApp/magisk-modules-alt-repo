@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "GMSDozeBlockFind",
+    "name": "GMS Doze (Bloquea \"Find My Device\")",
+    "version": "v1.4B",
+    "version_code": 141,
+    "author": "CrazybytesVE",
+    "description": "Aplica Doze a los Servicios de Google Play (GMS), maximizando batería. INSTALAR LUEGO DE CONFIGURAR CUENTA GOOGLE. Esta versión bloquea 'Find My Device' de Google."
+  },
+  "versions": [
+    {
+      "timestamp": 1683468481000,
+      "version": "v1.4B (141)",
+      "version_code": 141,
+      "zip_file": "141.zip",
+      "changelog": "141.md"
+    }
+  ]
+}

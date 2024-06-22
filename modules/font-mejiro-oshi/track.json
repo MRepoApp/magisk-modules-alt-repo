@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "font-mejiro-oshi",
+    "name": "Mejiro Font",
+    "version": "v22",
+    "version_code": 22,
+    "author": "AndroPlus",
+    "description": "Mejiro font patch for Japanese users."
+  },
+  "versions": [
+    {
+      "timestamp": 1711254365000,
+      "version": "v22 (22)",
+      "version_code": 22,
+      "zip_file": "22.zip",
+      "changelog": "22.md"
+    }
+  ]
+}

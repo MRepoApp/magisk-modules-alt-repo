@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "QS_Rectangulares",
+    "name": "Quick Settings Modded",
+    "version": "v1.0",
+    "version_code": 1,
+    "author": "@CrazybytesVE",
+    "description": "Este módulo coloca los Quick Settings más rectangulares, con un fondo degradado."
+  },
+  "versions": [
+    {
+      "timestamp": 1661166618000,
+      "version": "v1.0 (1)",
+      "version_code": 1,
+      "zip_file": "1.zip",
+      "changelog": "1.md"
+    }
+  ]
+}

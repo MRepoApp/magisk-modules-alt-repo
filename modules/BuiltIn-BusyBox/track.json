@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "BuiltIn-BusyBox",
+    "name": "Magisk built-in BusyBox",
+    "version": "1.0.7",
+    "version_code": 107,
+    "author": "zgfg @ xda",
+    "description": "Systemless BusyBox symlinked to the Magisk built-in busybox binary"
+  },
+  "versions": [
+    {
+      "timestamp": 1691527282000,
+      "version": "1.0.7 (107)",
+      "version_code": 107,
+      "zip_file": "107.zip",
+      "changelog": "107.md"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "vr25.fbind",
+    "name": "fbind",
+    "version": "v2021.12.6",
+    "version_code": 202112060,
+    "author": "VR25 @ xda-developers",
+    "description": "fbind is a versatile mounting utility for folders, disk images, LUKS/LUKS2 encrypted volumes, regular partitions and more."
+  },
+  "versions": [
+    {
+      "timestamp": 1638809703000,
+      "version": "v2021.12.6 (202112060)",
+      "version_code": 202112060,
+      "zip_file": "202112060.zip",
+      "changelog": ""
+    }
+  ]
+}

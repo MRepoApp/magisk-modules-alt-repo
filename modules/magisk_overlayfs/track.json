@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "magisk_overlayfs",
+    "name": "Magical Overlayfs",
+    "version": "v3.2.2",
+    "version_code": 30202,
+    "author": "HuskyDG",
+    "description": "Use OverlayFS to make read-only system partitions become read-write partitions. OverlayFS MUST be supported by kernel!"
+  },
+  "versions": [
+    {
+      "timestamp": 1696245441000,
+      "version": "v3.2.2 (30202)",
+      "version_code": 30202,
+      "zip_file": "30202.zip",
+      "changelog": "30202.md"
+    }
+  ]
+}

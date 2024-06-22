@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "upx-ndk",
+    "name": "UPX For Android NDK",
+    "version": "v3.96",
+    "version_code": 396,
+    "author": "JonesqPacMan™",
+    "description": "UPX (Ultimate Packer for Executables) is a free and open source executable packer supporting a number of file formats from different operating systems . This static binary support multi architectures built with the NDK"
+  },
+  "versions": [
+    {
+      "timestamp": 1659745041000,
+      "version": "v3.96 (396)",
+      "version_code": 396,
+      "zip_file": "396.zip",
+      "changelog": ""
+    }
+  ]
+}

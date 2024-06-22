@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "Disable_high_volume_warning",
+    "name": "Disable high volume warning",
+    "version": "v1.00",
+    "version_code": 1,
+    "author": "onimorza",
+    "description": "Magisk module that sets 'audio.safemedia.bypass=true' to disable the warning when augmenting the volume above a certain level."
+  },
+  "versions": [
+    {
+      "timestamp": 1690446974000,
+      "version": "v1.00 (1)",
+      "version_code": 1,
+      "zip_file": "1.zip",
+      "changelog": "1.md"
+    }
+  ]
+}

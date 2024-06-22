@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "RTKS",
+    "name": "RaidenTweaks",
+    "version": "v4.6.6",
+    "version_code": 466,
+    "author": "@raidenkkj",
+    "description": "Module focused on maximizing user experience, multiple profiles you can change!"
+  },
+  "versions": [
+    {
+      "timestamp": 1669914042000,
+      "version": "v4.6.6 (466)",
+      "version_code": 466,
+      "zip_file": "466.zip",
+      "changelog": "466.md"
+    }
+  ]
+}

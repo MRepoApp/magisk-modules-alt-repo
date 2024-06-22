@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "selinux_mode",
+    "name": "Selinux Mode Changer",
+    "version": "2.6.2",
+    "version_code": 262,
+    "author": "alicee98",
+    "description": "Change Your Selinux Mode"
+  },
+  "versions": [
+    {
+      "timestamp": 1657442127000,
+      "version": "2.6.2 (262)",
+      "version_code": 262,
+      "zip_file": "262.zip",
+      "changelog": "262.md"
+    }
+  ]
+}

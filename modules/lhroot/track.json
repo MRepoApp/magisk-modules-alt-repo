@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "lhroot",
+    "name": "Linux Chroot Installer",
+    "version": "v2.2.0",
+    "version_code": 1,
+    "author": "FerryAr",
+    "description": "Systemless linux chroot installer and chroot boot script"
+  },
+  "versions": [
+    {
+      "timestamp": 1703514265000,
+      "version": "v2.2.0 (1)",
+      "version_code": 1,
+      "zip_file": "1.zip",
+      "changelog": ""
+    }
+  ]
+}

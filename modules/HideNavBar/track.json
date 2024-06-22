@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "HideNavBar",
+    "name": "NavTweaks (former Fullscren/Immersive gestures) (Q-U)",
+    "version": "v27.3",
+    "version_code": 67,
+    "author": "DanGLES3",
+    "description": "Customize Android 10-14's navigation gestures"
+  },
+  "versions": [
+    {
+      "timestamp": 1716752152000,
+      "version": "v27.3 (67)",
+      "version_code": 67,
+      "zip_file": "67.zip",
+      "changelog": ""
+    }
+  ]
+}

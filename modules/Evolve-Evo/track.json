@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "Evolve-Evo",
+    "name": "Evolve-Evo-Sans",
+    "version": "v0.0.1",
+    "version_code": 13,
+    "author": "Psk.It",
+    "description": "font: Evolve Evo Sans"
+  },
+  "versions": [
+    {
+      "timestamp": 1685699521000,
+      "version": "v0.0.1 (13)",
+      "version_code": 13,
+      "zip_file": "13.zip",
+      "changelog": ""
+    }
+  ]
+}

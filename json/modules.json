@@ -1,0 +1,2268 @@
+{
+  "name": "Magisk Modules Alt Repo (mirror)",
+  "timestamp": 1719068486204,
+  "metadata": {
+    "homepage": "https://github.com/MRepoApp/magisk-modules-alt-repo",
+    "support": "https://github.com/MRepoApp/magisk-modules-alt-repo/issues"
+  },
+  "modules": [
+    {
+      "id": "abootloop",
+      "name": "Anti bootloop",
+      "version": "v1.3",
+      "version_code": 4,
+      "author": "nedorazrab0",
+      "description": "Protection from bootloop",
+      "metadata": {
+        "license": "MIT",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/abootloop.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1718056739000,
+          "version": "v1.3 (4)",
+          "version_code": 4,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/abootloop/4.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/abootloop/4.md"
+        }
+      ]
+    },
+    {
+      "id": "acc",
+      "name": "Advanced Charging Controller (ACC)",
+      "version": "v2023.10.16",
+      "version_code": 202310160,
+      "author": "VR25",
+      "description": "Extend your battery's service life by controlling charging current, temperature, and voltage. Any root solution is supported. The installation is always \"systemless\". Works on Android and KaiOS.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "homepage": "https://github.com/VR-25/acc",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/acc.git",
+        "donate": "https://patreon.com/VR25"
+      },
+      "versions": [
+        {
+          "timestamp": 1697485570000,
+          "version": "v2023.10.16 (202310160)",
+          "version_code": 202310160,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/acc/202310160.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/acc/202310160.md"
+        }
+      ]
+    },
+    {
+      "id": "AFWall-Boot-AntiLeak",
+      "name": "AFWall Boot AntiLeak",
+      "version": "v1.3",
+      "version_code": 4,
+      "author": "GrayJackFixxxer",
+      "description": "A module to prevent internet access on boot BEFORE AfWall started and applied",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1640525162000,
+          "version": "v1.3 (4)",
+          "version_code": 4,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/AFWall-Boot-AntiLeak/4.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/AFWall-Boot-AntiLeak/"
+        }
+      ]
+    },
+    {
+      "id": "audio-jitter-silencer",
+      "name": "Audio jitter silencer",
+      "version": "v1.0.8",
+      "version_code": 1008,
+      "author": "zyhk",
+      "description": "Disabling very large audio jitter generators (w.r.t. battery draining & optimizations, and wireless connectivity) for reducing audio jitter distortion on all digital audio outputs.",
+      "metadata": {
+        "license": "AGPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1713162378000,
+          "version": "v1.0.8 (1008)",
+          "version_code": 1008,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/audio-jitter-silencer/1008.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/audio-jitter-silencer/1008.md"
+        }
+      ]
+    },
+    {
+      "id": "audio-misc-settings",
+      "name": "Audio misc. settings",
+      "version": "v1.3.7",
+      "version_code": 1307,
+      "author": "zyhk",
+      "description": "Setting audio misc. configuration values (e.g. 100 volume steps, raising the resampling quality, disabling the effects framework, etc.)",
+      "metadata": {
+        "license": "AGPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1718274057000,
+          "version": "v1.3.7 (1307)",
+          "version_code": 1307,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/audio-misc-settings/1307.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/audio-misc-settings/1307.md"
+        }
+      ]
+    },
+    {
+      "id": "backup",
+      "name": "Backup",
+      "version": "v1.0",
+      "version_code": 1,
+      "author": "Draco",
+      "description": "An easy CLI backup tool without using a custom recovery.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/backup.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/backup/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1599015487000,
+          "version": "v1.0 (1)",
+          "version_code": 1,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/backup/1.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/backup/"
+        }
+      ]
+    },
+    {
+      "id": "Better-MIUI-Icons",
+      "name": "Better MIUI Icons",
+      "version": "MIUI12 v1",
+      "version_code": 1,
+      "author": "SpicyChair",
+      "description": "Systemlessly install the nice icons from MiRoom to any MIUI 12-based ROM.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1615045465000,
+          "version": "MIUI12 v1 (1)",
+          "version_code": 1,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Better-MIUI-Icons/1.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Better-MIUI-Icons/"
+        }
+      ]
+    },
+    {
+      "id": "BuiltIn-BusyBox",
+      "name": "Magisk built-in BusyBox",
+      "version": "1.0.7",
+      "version_code": 107,
+      "author": "zgfg @ xda",
+      "description": "Systemless BusyBox symlinked to the Magisk built-in busybox binary",
+      "metadata": {
+        "license": "GPL-2.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox.git",
+        "donate": "https://zgfg.github.io/PayPal.html",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1691527282000,
+          "version": "1.0.7 (107)",
+          "version_code": 107,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/BuiltIn-BusyBox/107.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/BuiltIn-BusyBox/107.md"
+        }
+      ]
+    },
+    {
+      "id": "ByeBlur",
+      "name": "Bye Blur",
+      "version": "v3",
+      "version_code": 3,
+      "author": "@LeanHijosdesusMadres × @nonosvaimos",
+      "description": "Disable the blur effect, this improves performance by discarding this complex visual effect.",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Bye-Blur.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/Bye-Blur/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1705505468000,
+          "version": "v3 (3)",
+          "version_code": 3,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ByeBlur/3.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ByeBlur/"
+        }
+      ]
+    },
+    {
+      "id": "charch",
+      "name": "ChArch",
+      "version": "v1.0",
+      "version_code": 1,
+      "author": "tytydraco",
+      "description": "An Android-patched Magisk Module implementation of ChArch.",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/charch.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/charch/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1638831717000,
+          "version": "v1.0 (1)",
+          "version_code": 1,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/charch/1.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/charch/"
+        }
+      ]
+    },
+    {
+      "id": "charch_dinit",
+      "name": "ChArch Dinit",
+      "version": "v1.1",
+      "version_code": 2,
+      "author": "supangat",
+      "description": "Initialize Dinit init for the default ChArch rootfs instance.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_dinit.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/charch_dinit/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1648456059000,
+          "version": "v1.1 (2)",
+          "version_code": 2,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/charch_dinit/2.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/charch_dinit/"
+        }
+      ]
+    },
+    {
+      "id": "charch_openrc",
+      "name": "ChArch OpenRC",
+      "version": "v1.1",
+      "version_code": 2,
+      "author": "tytydraco",
+      "description": "Initialize OpenRC for the default ChArch rootfs instance.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_openrc.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/charch_openrc/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1600642258000,
+          "version": "v1.1 (2)",
+          "version_code": 2,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/charch_openrc/2.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/charch_openrc/"
+        }
+      ]
+    },
+    {
+      "id": "charch_sshd",
+      "name": "ChArch SSHD",
+      "version": "v1.0",
+      "version_code": 1,
+      "author": "tytydraco",
+      "description": "Initialize SSHD for the default ChArch rootfs instance.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1600642223000,
+          "version": "v1.0 (1)",
+          "version_code": 1,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/charch_sshd/1.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/charch_sshd/"
+        }
+      ]
+    },
+    {
+      "id": "chroot-distro",
+      "name": "chroot-distro",
+      "version": "1.0.0",
+      "version_code": 2,
+      "author": "@YasserNull",
+      "description": "install linux distributions on android",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1710598878000,
+          "version": "1.0.0 (2)",
+          "version_code": 2,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/chroot-distro/2.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/chroot-distro/"
+        }
+      ]
+    },
+    {
+      "id": "Clash4Magisk",
+      "name": "Clash for Magisk",
+      "version": "1.13.6",
+      "version_code": 101306060,
+      "author": "Kry9toN",
+      "description": "Clash meta core with service scripts for Android.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Clash4Magisk.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/Clash4Magisk/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1697354142000,
+          "version": "1.13.6 (101306060)",
+          "version_code": 101306060,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Clash4Magisk/101306060.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Clash4Magisk/101306060.md"
+        }
+      ]
+    },
+    {
+      "id": "cmdpatch",
+      "name": "CMD Patch",
+      "version": "v1.0",
+      "version_code": 1,
+      "author": "tytydraco",
+      "description": "An Android Linux Kernel command line patch tool using Magisk's magiskboot binary.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1598574218000,
+          "version": "v1.0 (1)",
+          "version_code": 1,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/cmdpatch/1.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/cmdpatch/"
+        }
+      ]
+    },
+    {
+      "id": "com.omergoktas.Foundation",
+      "name": "Foundation",
+      "version": "v1.2",
+      "version_code": 102,
+      "author": "omergoktas",
+      "description": "Magisk module comprising essential apps (including a patched version of Google Play Store compatible with microG) and convenient settings for vanilla Android builds.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1673551553000,
+          "version": "v1.2 (102)",
+          "version_code": 102,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/com.omergoktas.Foundation/102.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/com.omergoktas.Foundation/102.md"
+        }
+      ]
+    },
+    {
+      "id": "compatible-magisk-mirroring",
+      "name": "Compatible Magisk-mirroring",
+      "version": "v1.1.3",
+      "version_code": 1103,
+      "author": "zyhk",
+      "description": "A Magisk module providing the compatible Magisk-mirroring for installing pure Magisk modules on incompatible Magisk variants and KernelSU (incl. APatch).",
+      "metadata": {
+        "license": "AGPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1713163766000,
+          "version": "v1.1.3 (1103)",
+          "version_code": 1103,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/compatible-magisk-mirroring/1103.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/compatible-magisk-mirroring/1103.md"
+        }
+      ]
+    },
+    {
+      "id": "CustomizedNavbar",
+      "name": "Customized Navbar",
+      "version": "3.2",
+      "version_code": 5,
+      "author": "Pycm [4PDA]",
+      "description": "Change Navbar Gesture Indicator color to match the theme's accent color, increase wide and thickness",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1665102744000,
+          "version": "3.2 (5)",
+          "version_code": 5,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/CustomizedNavbar/5.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/CustomizedNavbar/5.md"
+        }
+      ]
+    },
+    {
+      "id": "DalvikHyperthreading",
+      "name": "DalvikHyperthreading",
+      "version": "v2",
+      "version_code": 2,
+      "author": "@LeanHijosdesusMadres [telegram]",
+      "description": "This does is helps the multithread line to tell the cpu to easily do more faster proccessing without overheating.",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1673728563000,
+          "version": "v2 (2)",
+          "version_code": 2,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/DalvikHyperthreading/2.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/DalvikHyperthreading/"
+        }
+      ]
+    },
+    {
+      "id": "data_backup",
+      "name": "Data backup creator",
+      "version": "v2.14",
+      "version_code": 7,
+      "author": "ziand",
+      "description": "Data backup creator for restoring by data_restore.zip from or Magisk module installer or TWRP",
+      "metadata": {
+        "license": "MIT",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/data_backup.git"
+      },
+      "versions": [
+        {
+          "timestamp": 1686426009000,
+          "version": "v2.14 (7)",
+          "version_code": 7,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/data_backup/7.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/data_backup/7.md"
+        }
+      ]
+    },
+    {
+      "id": "data_isolation_support",
+      "name": "AppDataIsolation Legacy Support",
+      "version": "1.2",
+      "version_code": 3,
+      "author": "HuskyDG",
+      "description": "Enable /data/data isolation for old Android version (Android 10 and lower). Require Magisk process monitor tool v1.1+",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1670983400000,
+          "version": "1.2 (3)",
+          "version_code": 3,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/data_isolation_support/3.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/data_isolation_support/"
+        }
+      ]
+    },
+    {
+      "id": "data_restore_Courier",
+      "name": "Courier of data_restore script for MAGISK-TWRP",
+      "version": "v2.14",
+      "version_code": 8,
+      "author": "ziand",
+      "description": "Courier of latest version data_restore script to folder /sdcard.",
+      "metadata": {
+        "license": "MIT",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/data_restore_Courier.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/data_restore_Courier/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1683752081000,
+          "version": "v2.14 (8)",
+          "version_code": 8,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/data_restore_Courier/8.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/data_restore_Courier/8.md"
+        }
+      ]
+    },
+    {
+      "id": "disable-low-ram",
+      "name": "Disable Low Ram Flag",
+      "version": "v1",
+      "version_code": 1,
+      "author": "sekedus",
+      "description": "This module disable ro.config.low_ram flag on Android Go edition",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/disable-low-ram.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/disable-low-ram/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1716766415000,
+          "version": "v1 (1)",
+          "version_code": 1,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/disable-low-ram/1.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/disable-low-ram/1.md"
+        }
+      ]
+    },
+    {
+      "id": "Disable_high_volume_warning",
+      "name": "Disable high volume warning",
+      "version": "v1.00",
+      "version_code": 1,
+      "author": "onimorza",
+      "description": "Magisk module that sets 'audio.safemedia.bypass=true' to disable the warning when augmenting the volume above a certain level.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Disable_high_volume_warning.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/Disable_high_volume_warning/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1690446974000,
+          "version": "v1.00 (1)",
+          "version_code": 1,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Disable_high_volume_warning/1.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Disable_high_volume_warning/1.md"
+        }
+      ]
+    },
+    {
+      "id": "djs",
+      "name": "Daily Job Scheduler (DJS)",
+      "version": "v2021.11.3",
+      "version_code": 202111030,
+      "author": "VR25",
+      "description": "Runs commands and scripts on boot and at HH:MM. Any root solution is supported. The installation is always \"system-less\", whether or not the system is rooted with Magisk.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "homepage": "https://github.com/VR-25/djs",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/djs.git",
+        "donate": "https://patreon.com/VR25"
+      },
+      "versions": [
+        {
+          "timestamp": 1639484648000,
+          "version": "v2021.11.3 (202111030)",
+          "version_code": 202111030,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/djs/202111030.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/djs/"
+        }
+      ]
+    },
+    {
+      "id": "drc-remover",
+      "name": "DRC remover",
+      "version": "v1.2.3",
+      "version_code": 1203,
+      "author": "zyhk",
+      "description": "A remover of DRC (Dynamic Range Control, i.e., compression) sticking to all audio outputs on some major devices.",
+      "metadata": {
+        "license": "AGPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1713443884000,
+          "version": "v1.2.3 (1203)",
+          "version_code": 1203,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/drc-remover/1203.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/drc-remover/1203.md"
+        }
+      ]
+    },
+    {
+      "id": "Evolve-Evo",
+      "name": "Evolve-Evo-Sans",
+      "version": "v0.0.1",
+      "version_code": 13,
+      "author": "Psk.It",
+      "description": "font: Evolve Evo Sans",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Evolve-Evo.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/Evolve-Evo/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1685699521000,
+          "version": "v0.0.1 (13)",
+          "version_code": 13,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Evolve-Evo/13.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Evolve-Evo/"
+        }
+      ]
+    },
+    {
+      "id": "ezme-dex-space",
+      "name": "Space saving Ahead-of-Time",
+      "version": "v1",
+      "version_code": 1000,
+      "author": "ez-me",
+      "description": "Changes how Android's dex2oat compiles packages to save space, rather than focus on speed. ",
+      "metadata": {
+        "license": "MIT",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/ezme-dex-space.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/ezme-dex-space/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1662814335000,
+          "version": "v1 (1000)",
+          "version_code": 1000,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ezme-dex-space/1000.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ezme-dex-space/"
+        }
+      ]
+    },
+    {
+      "id": "ezme-nodebug",
+      "name": "Hide UserDebug, Test-Keys and LineageOS",
+      "version": "v1",
+      "version_code": 1000,
+      "author": "ez-me",
+      "description": "Change some props and \"remove\" LineageOS ones",
+      "metadata": {
+        "license": "MIT",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1663012287000,
+          "version": "v1 (1000)",
+          "version_code": 1000,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ezme-nodebug/1000.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ezme-nodebug/"
+        }
+      ]
+    },
+    {
+      "id": "faina",
+      "name": "\"pm Install\" from anywhere",
+      "version": "0.1",
+      "version_code": 1,
+      "author": "Kartatz",
+      "description": "Allow the 'pm' CLI utility to install APKs from anywhere.",
+      "metadata": {
+        "license": "LGPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/faina.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/faina/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1711371168000,
+          "version": "0.1 (1)",
+          "version_code": 1,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/faina/1.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/faina/"
+        }
+      ]
+    },
+    {
+      "id": "vr25.fbind",
+      "name": "fbind",
+      "version": "v2021.12.6",
+      "version_code": 202112060,
+      "author": "VR25 @ xda-developers",
+      "description": "fbind is a versatile mounting utility for folders, disk images, LUKS/LUKS2 encrypted volumes, regular partitions and more.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "homepage": "https://github.com/VR-25/fbind",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/fbind.git",
+        "donate": "https://patreon.com/VR25",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/fbind/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1638809703000,
+          "version": "v2021.12.6 (202112060)",
+          "version_code": 202112060,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/vr25.fbind/202112060.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/vr25.fbind/"
+        }
+      ]
+    },
+    {
+      "id": "FluentEmojiMagisk",
+      "name": "Fluent Emoji (Microsoft)",
+      "version": "v2023.03.17",
+      "version_code": 20230317,
+      "author": "k3rnelpanik",
+      "description": "Replaces system emojis with Fluent Emojis from Microsoft with the magic of Magisk.",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1691803198000,
+          "version": "v2023.03.17 (20230317)",
+          "version_code": 20230317,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/FluentEmojiMagisk/20230317.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/FluentEmojiMagisk/20230317.md"
+        }
+      ]
+    },
+    {
+      "id": "FOSSAPPS",
+      "name": "FOSSAPPS",
+      "version": "v1.5",
+      "version_code": 50620,
+      "author": "Wacko1805",
+      "description": "Basicly GAPPS, but all apps are open source and not Google apps",
+      "metadata": {
+        "license": "Apache-2.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1605409356000,
+          "version": "v1.5 (50620)",
+          "version_code": 50620,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/FOSSAPPS/50620.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/FOSSAPPS/"
+        }
+      ]
+    },
+    {
+      "id": "frozen_magisk_app",
+      "name": "Frozen Magisk app",
+      "version": "1.2",
+      "version_code": 3,
+      "author": "HuskyDG",
+      "description": "Dynamic freezing Magisk app. Process Monitor Tool v2.1+ is required for this module to work.",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1673245267000,
+          "version": "1.2 (3)",
+          "version_code": 3,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/frozen_magisk_app/3.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/frozen_magisk_app/"
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "name": "GAMING乛Mode",
+      "version": "vFINAL",
+      "version_code": 5,
+      "author": "AkiraSuper",
+      "description": "null",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/gaming.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/gaming/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1603068712000,
+          "version": "vFINAL (5)",
+          "version_code": 5,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/gaming/5.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/gaming/"
+        }
+      ]
+    },
+    {
+      "id": "GlitchedCyberBoot",
+      "name": "CyberGlitch BootAnimation mod",
+      "version": "1.1",
+      "version_code": 110,
+      "author": "SodaSoba",
+      "description": "Modified Cyberpunk2077 Bootanimation with color matching Shutdown animation for OOS 13",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1681338219000,
+          "version": "1.1 (110)",
+          "version_code": 110,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/GlitchedCyberBoot/110.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/GlitchedCyberBoot/"
+        }
+      ]
+    },
+    {
+      "id": "GMSDozeBlockFind",
+      "name": "GMS Doze (Bloquea \"Find My Device\")",
+      "version": "v1.4B",
+      "version_code": 141,
+      "author": "CrazybytesVE",
+      "description": "Aplica Doze a los Servicios de Google Play (GMS), maximizando batería. INSTALAR LUEGO DE CONFIGURAR CUENTA GOOGLE. Esta versión bloquea 'Find My Device' de Google.",
+      "metadata": {
+        "license": "GPL-2.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1683468481000,
+          "version": "v1.4B (141)",
+          "version_code": 141,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/GMSDozeBlockFind/141.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/GMSDozeBlockFind/141.md"
+        }
+      ]
+    },
+    {
+      "id": "GMSDoze",
+      "name": "GMS Doze",
+      "version": "v1.4A",
+      "version_code": 140,
+      "author": "CrazybytesVE",
+      "description": "Aplica Doze a los Google Play Services (GMS), maximizando batería. INSTALAR LUEGO DE CONFIGURAR CUENTA GOOGLE.",
+      "metadata": {
+        "license": "GPL-2.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1683468397000,
+          "version": "v1.4A (140)",
+          "version_code": 140,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/GMSDoze/140.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/GMSDoze/140.md"
+        }
+      ]
+    },
+    {
+      "id": "Google-Sans",
+      "name": "Google Sans",
+      "version": "v1.0",
+      "version_code": 1,
+      "author": "SourajitK",
+      "description": "Apply Google Sans everywhere, systemlessly.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1598228686000,
+          "version": "v1.0 (1)",
+          "version_code": 1,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Google-Sans/1.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Google-Sans/"
+        }
+      ]
+    },
+    {
+      "id": "Google-Sans-Plus",
+      "name": "Google Sans Plus",
+      "version": "v1.0",
+      "version_code": 1,
+      "author": "SourajitK",
+      "description": "Apply Google Sans everywhere, systemlessly. (also contains leaked A11 emojis)",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1598227265000,
+          "version": "v1.0 (1)",
+          "version_code": 1,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Google-Sans-Plus/1.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Google-Sans-Plus/"
+        }
+      ]
+    },
+    {
+      "id": "Google_Product_Sans_Font",
+      "name": "Google Product Sans Font",
+      "version": "1.0",
+      "version_code": 1,
+      "author": "solomon_rajan",
+      "description": "Systemlessly Google Product Sans Font for Android 12!",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1646152481000,
+          "version": "1.0 (1)",
+          "version_code": 1,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Google_Product_Sans_Font/1.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Google_Product_Sans_Font/"
+        }
+      ]
+    },
+    {
+      "id": "heimdall-ndk",
+      "name": "Heimdall For Android NDK",
+      "version": "v2.0.2",
+      "version_code": 202,
+      "author": "JonesqPacMan™",
+      "description": "Heimdall is a tool for flashing firmware (aka ROMs) onto Samsung Galaxy series devices over a USB connection. It accomplishes this using the same protocol as Odin . This static binary support multi architectures built with the NDK",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1659743807000,
+          "version": "v2.0.2 (202)",
+          "version_code": 202,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/heimdall-ndk/202.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/heimdall-ndk/"
+        }
+      ]
+    },
+    {
+      "id": "HideNavBar",
+      "name": "NavTweaks (former Fullscren/Immersive gestures) (Q-U)",
+      "version": "v27.3",
+      "version_code": 67,
+      "author": "DanGLES3",
+      "description": "Customize Android 10-14's navigation gestures",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1716752152000,
+          "version": "v27.3 (67)",
+          "version_code": 67,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/HideNavBar/67.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/HideNavBar/"
+        }
+      ]
+    },
+    {
+      "id": "isodrive",
+      "name": "Isodrive",
+      "version": "2.1",
+      "version_code": 21,
+      "author": "Marcel Alexandru Nitan",
+      "description": "Use your mobile device to boot Linux distributions/ISO files on your PC",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/isodrive.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/isodrive/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1693645620000,
+          "version": "2.1 (21)",
+          "version_code": 21,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/isodrive/21.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/isodrive/"
+        }
+      ]
+    },
+    {
+      "id": "kaina",
+      "name": "Writable MicroSD",
+      "version": "0.1",
+      "version_code": 1,
+      "author": "Kartatz",
+      "description": "Allow Android apps holding the WRITE_EXTERNAL_STORAGE permission to read and write on the MicroSD card.",
+      "metadata": {
+        "license": "LGPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/kaina.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/kaina/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1710968944000,
+          "version": "0.1 (1)",
+          "version_code": 1,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/kaina/1.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/kaina/"
+        }
+      ]
+    },
+    {
+      "id": "lhroot",
+      "name": "Linux Chroot Installer",
+      "version": "v2.2.0",
+      "version_code": 1,
+      "author": "FerryAr",
+      "description": "Systemless linux chroot installer and chroot boot script",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/lhroot.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/lhroot/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1703514265000,
+          "version": "v2.2.0 (1)",
+          "version_code": 1,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/lhroot/1.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/lhroot/"
+        }
+      ]
+    },
+    {
+      "id": "Luz-Nocturna_Modded",
+      "name": "Luz Nocturna Modded",
+      "version": "v1.0",
+      "version_code": 1,
+      "author": "@CrazybytesVE",
+      "description": "Este módulo modifica los valores mínimos de \"Luz Nocturna\" para que sean menos cálidos (menos amarillentos). .",
+      "metadata": {
+        "license": "GPL-2.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1665327252000,
+          "version": "v1.0 (1)",
+          "version_code": 1,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Luz-Nocturna_Modded/1.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Luz-Nocturna_Modded/1.md"
+        }
+      ]
+    },
+    {
+      "id": "MacRandomizationEnabler",
+      "name": "MacRandomizationEnabler",
+      "version": "v1",
+      "version_code": 1,
+      "author": "63c",
+      "description": "Enable Mac Randomization on device's it's been left disabled.",
+      "metadata": {
+        "license": "GPL-2.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1598109398000,
+          "version": "v1 (1)",
+          "version_code": 1,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/MacRandomizationEnabler/1.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/MacRandomizationEnabler/"
+        }
+      ]
+    },
+    {
+      "id": "magic-flash",
+      "name": "Magic FlashTool (Terminal Emulator)",
+      "version": "v1.6",
+      "version_code": 10006,
+      "author": "HuskyDG",
+      "description": "An android CLI flash tool without custom recoveries. Usage: flash [ZIP...]",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1652933875000,
+          "version": "v1.6 (10006)",
+          "version_code": 10006,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/magic-flash/10006.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/magic-flash/"
+        }
+      ]
+    },
+    {
+      "id": "magisk-captive-control",
+      "name": "Magisk Captive Control (MCC)",
+      "version": "v1.0.0",
+      "version_code": 100,
+      "author": "Atrate",
+      "description": "A Magisk Module aiming to control (change/disable) Android Captive Portal Detection.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1604596410000,
+          "version": "v1.0.0 (100)",
+          "version_code": 100,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/magisk-captive-control/100.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/magisk-captive-control/"
+        }
+      ]
+    },
+    {
+      "id": "magisk-drm-disabler",
+      "name": "Magisk DRM Disabler (MDD)",
+      "version": "v1.3.1",
+      "version_code": 131,
+      "author": "Atrate",
+      "description": "A Magisk Module aiming to eliminate DRM from Android systemlessly.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "homepage": "https://gitlab.com/atrate/magisk-drm-disabler",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1612778235000,
+          "version": "v1.3.1 (131)",
+          "version_code": 131,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/magisk-drm-disabler/131.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/magisk-drm-disabler/"
+        }
+      ]
+    },
+    {
+      "id": "font-koruri-n",
+      "name": "Koruri Font",
+      "version": "v28",
+      "version_code": 28,
+      "author": "lindwurm,AndroPlus",
+      "description": "Koruri font patch for Japanese users. Koruri is open source Japanese font.",
+      "metadata": {
+        "license": "WTFPL",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font.git",
+        "donate": "https://github.com/sponsors/AndroPlus-org",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1711254247000,
+          "version": "v28 (28)",
+          "version_code": 28,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/font-koruri-n/28.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/font-koruri-n/28.md"
+        }
+      ]
+    },
+    {
+      "id": "font-mejiro-oshi",
+      "name": "Mejiro Font",
+      "version": "v22",
+      "version_code": 22,
+      "author": "AndroPlus",
+      "description": "Mejiro font patch for Japanese users.",
+      "metadata": {
+        "license": "WTFPL",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font.git",
+        "donate": "https://github.com/sponsors/AndroPlus-org",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1711254365000,
+          "version": "v22 (22)",
+          "version_code": 22,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/font-mejiro-oshi/22.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/font-mejiro-oshi/22.md"
+        }
+      ]
+    },
+    {
+      "id": "magisk_overlayfs",
+      "name": "Magical Overlayfs",
+      "version": "v3.2.2",
+      "version_code": 30202,
+      "author": "HuskyDG",
+      "description": "Use OverlayFS to make read-only system partitions become read-write partitions. OverlayFS MUST be supported by kernel!",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1696245441000,
+          "version": "v3.2.2 (30202)",
+          "version_code": 30202,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/magisk_overlayfs/30202.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/magisk_overlayfs/30202.md"
+        }
+      ]
+    },
+    {
+      "id": "magisk_proc_monitor",
+      "name": "Process Monitor Tool",
+      "version": "2.3",
+      "version_code": 10,
+      "author": "HuskyDG",
+      "description": "Provide the way for modules to run script whenever app process start. More information, please visit http://github.com/huskydg/magisk_proc_monitor",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1694360679000,
+          "version": "2.3 (10)",
+          "version_code": 10,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/magisk_proc_monitor/10.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/magisk_proc_monitor/"
+        }
+      ]
+    },
+    {
+      "id": "Malwack",
+      "name": "Malwack | Anti-Malware & Ad Blocker",
+      "version": "v4.2.1",
+      "version_code": 18,
+      "author": "Person0z",
+      "description": "Say goodbye to unwanted digital pests and send malware running with Malwack, your virtual fly swatter for the cyber world. It's like having a bouncer for your device – no entry for malware, bugs, or party crashers!",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Malwack.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1719068467831,
+          "version": "v4.2.1 (18)",
+          "version_code": 18,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/18.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/18.md"
+        }
+      ]
+    },
+    {
+      "id": "microG-GApps",
+      "name": "microG-GApps",
+      "version": "v0.2.28.231657",
+      "version_code": 29,
+      "author": "Psk.It",
+      "description": "microG, Playstore, Calendar Sync, Contacts Sync ",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1690613826000,
+          "version": "v0.2.28.231657 (29)",
+          "version_code": 29,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/microG-GApps/29.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/microG-GApps/"
+        }
+      ]
+    },
+    {
+      "id": "microg_installer",
+      "name": "microG Installer Revived",
+      "version": "Revived 3.4.4-0",
+      "version_code": 30440,
+      "author": "nift4",
+      "description": "Install microG GmsCore, Companion (or Play Store if you want so), GsfProxy and MapsV1 to /system/",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1716033244000,
+          "version": "Revived 3.4.4-0 (30440)",
+          "version_code": 30440,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/microg_installer/30440.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/microg_installer/30440.md"
+        }
+      ]
+    },
+    {
+      "id": "MiXplorer",
+      "name": "MiXplorer",
+      "version": "v6.64.3_at20240323",
+      "version_code": 29,
+      "author": "Psk.It",
+      "description": "MiXplorer + all addons    ",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1711189357000,
+          "version": "v6.64.3_at20240323 (29)",
+          "version_code": 29,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/MiXplorer/29.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/MiXplorer/"
+        }
+      ]
+    },
+    {
+      "id": "mkshrc",
+      "name": "Systemless Mkshrc",
+      "version": "1.5.14",
+      "version_code": 1514,
+      "author": "Der_Googler",
+      "description": "Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc.git",
+        "donate": "https://github.com/sponsors/DerGoogler",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1719051786000,
+          "version": "1.5.14 (1514)",
+          "version_code": 1514,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/mkshrc/1514.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/mkshrc/"
+        }
+      ]
+    },
+    {
+      "id": "NavBar_Resize",
+      "name": "36DPI NavBar AOSP",
+      "version": "v1.1",
+      "version_code": 11,
+      "author": "CrazyBytesVE",
+      "description": "Barra de Navegación reducida a 36DPI, compatible con Android 8 y superiores. Probado en ROMs AOSP.",
+      "metadata": {
+        "license": "GPL-2.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1661028252000,
+          "version": "v1.1 (11)",
+          "version_code": 11,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/NavBar_Resize/11.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/NavBar_Resize/11.md"
+        }
+      ]
+    },
+    {
+      "id": "NavBar_Resize_Miui10-11-12-13",
+      "name": "36DPI NavBar para Miui",
+      "version": "v2.0",
+      "version_code": 2,
+      "author": "CrazyBytesVE",
+      "description": "Barra de Navegación reducida a 36DPI, compatible con Android 8 y superiores (12.1 compatible). Probado en ROMs Miui 10 o superior (Miui 13 compatible).",
+      "metadata": {
+        "license": "GPL-2.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1665059184000,
+          "version": "v2.0 (2)",
+          "version_code": 2,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/NavBar_Resize_Miui10-11-12-13/2.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/NavBar_Resize_Miui10-11-12-13/2.md"
+        }
+      ]
+    },
+    {
+      "id": "node_on_android",
+      "name": "Systemless Node.js",
+      "version": "1.5.5",
+      "version_code": 155,
+      "author": "Der_Googler",
+      "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
+      "metadata": {
+        "license": "MIT",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/node.git",
+        "donate": "https://github.com/sponsors/DerGoogler",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/node/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1719051838000,
+          "version": "1.5.5 (155)",
+          "version_code": 155,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/node_on_android/155.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/node_on_android/"
+        }
+      ]
+    },
+    {
+      "id": "NoStorageRestrict",
+      "name": "NoStorageRestrict",
+      "version": "v5",
+      "version_code": 6,
+      "author": "DanGLES3",
+      "description": "Disables the restriction of not being able to select certain folders (like downloads/sdcard) when prompted by apps",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1703269294000,
+          "version": "v5 (6)",
+          "version_code": 6,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/NoStorageRestrict/6.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/NoStorageRestrict/"
+        }
+      ]
+    },
+    {
+      "id": "OneController",
+      "name": "1Controller - 1 Module to support all Controllers.",
+      "version": "v1.5.2",
+      "version_code": 152,
+      "author": "Electric1447",
+      "description": "This module adds .kl file (keylayout) for Dualshock 4/3, Xbox Series X|S, Xbox One/S, Xbox 360.",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/OneController.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/OneController/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1624492127000,
+          "version": "v1.5.2 (152)",
+          "version_code": 152,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/OneController/152.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/OneController/"
+        }
+      ]
+    },
+    {
+      "id": "oneplus-8series-9r-camera-unlocker",
+      "name": "OnePlus 8 Series & 9R Camera Unlocker",
+      "version": "v1.2",
+      "version_code": 1200,
+      "author": "AnierinB, Cartesian8445, haiderijaz, JeusChrit, Luk1377, shadowstep",
+      "description": "Unlocks features like 48MP RAW10 support, auxiliary lenses (in custom ROMs only), Zero Shutter Lag (ZSL), etc. on the OnePlus 8, 8 Pro, 8T, and 9R",
+      "metadata": {
+        "license": "GPL-2.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1668837132000,
+          "version": "v1.2 (1200)",
+          "version_code": 1200,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/oneplus-8series-9r-camera-unlocker/1200.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/oneplus-8series-9r-camera-unlocker/1200.md"
+        }
+      ]
+    },
+    {
+      "id": "oneplusdotfix",
+      "name": "OnePlus 5/5T DotFix",
+      "version": "v6.3",
+      "version_code": 6300,
+      "author": "Arnova8G2, defcomg, MrAimenify, shadowstep",
+      "description": "This module replaces the necessary camera libraries with modified ones which fix the Dotted Pattern Overlay issue, Front Camera HDR-Enhanced as well as Portrait Mode using the Google Camera Mod on the OnePlus 5/5T",
+      "metadata": {
+        "license": "GPL-2.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/oneplusdotfix.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/oneplusdotfix/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1673864734000,
+          "version": "v6.3 (6300)",
+          "version_code": 6300,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/oneplusdotfix/6300.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/oneplusdotfix/6300.md"
+        }
+      ]
+    },
+    {
+      "id": "open_fonts",
+      "name": "Open Fonts",
+      "version": "3.1.1",
+      "version_code": 119,
+      "author": "F3FFO",
+      "description": "Open Fonts change your system fonts",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts.git",
+        "donate": "https://www.paypal.me/f3ff0",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1682263480000,
+          "version": "3.1.1 (119)",
+          "version_code": 119,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/open_fonts/119.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/open_fonts/119.md"
+        }
+      ]
+    },
+    {
+      "id": "open_webview",
+      "name": "Open Webview",
+      "version": "2.4.0",
+      "version_code": 240,
+      "author": "F3FFO",
+      "description": "Open Webview change your system webview",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/open_webview.git",
+        "donate": "https://www.paypal.me/f3ff0",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1709485366000,
+          "version": "2.4.0 (240)",
+          "version_code": 240,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/open_webview/240.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/open_webview/240.md"
+        }
+      ]
+    },
+    {
+      "id": "pdx213_assistant_camera_remap",
+      "name": "Xperia 10 III GA Button Remapper",
+      "version": "v1.2",
+      "version_code": 1,
+      "author": "lufei",
+      "description": "Remap the Google Assistant Button as a camera button.",
+      "metadata": {
+        "license": "MIT",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1661242317000,
+          "version": "v1.2 (1)",
+          "version_code": 1,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/pdx213_assistant_camera_remap/1.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/pdx213_assistant_camera_remap/"
+        }
+      ]
+    },
+    {
+      "id": "perf-limit-xiaomi-12",
+      "name": "Performance limit for Xiaomi 12",
+      "version": "v2.4",
+      "version_code": 24,
+      "author": "mgrybyk",
+      "description": "Limit CPU and GPU performance to desired level on Xiaomi devices with Qualcomm Gen 1 CPU",
+      "metadata": {
+        "license": "MIT",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1695975711000,
+          "version": "v2.4 (24)",
+          "version_code": 24,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/perf-limit-xiaomi-12/24.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/perf-limit-xiaomi-12/"
+        }
+      ]
+    },
+    {
+      "id": "pixel-tensor-audio-decompressor",
+      "name": "Pixel Tensor Audio Decompressor",
+      "version": "v2.1.0",
+      "version_code": 210,
+      "author": "JoshuaDoes",
+      "description": "Patches mixer_paths.xml on Pixel Tensor devices to decompress the digital PCM volume.",
+      "metadata": {
+        "homepage": "https://github.com/JoshuaDoes/pixel-tensor-audio-decompressor",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1691055436000,
+          "version": "v2.1.0 (210)",
+          "version_code": 210,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/pixel-tensor-audio-decompressor/210.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/pixel-tensor-audio-decompressor/"
+        }
+      ]
+    },
+    {
+      "id": "PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX",
+      "name": "Plex \"Skip Intro\" DPad Controller Fix",
+      "version": "v1",
+      "version_code": 1,
+      "author": "OhMyBahGosh",
+      "description": "Magisk module that maps key code 28 to \"DPAD_ENTER\" instead of \"ENTER\".  This allows for the DPad \"OK\" button to work properly, so that when you press the \"OK\" button, it actually presses the \"Skip Intro\" button.  This fixes a very annoying, and long ignored issue encountered when using a DPad controller inside PLEX on Android TV.  Without this module, when you press the \"OK\" button on a DPad Controller when the \"Skip Intro\" button appears in plex, it'll bring up player controls instead of actually skipping the intro.",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1645367235000,
+          "version": "v1 (1)",
+          "version_code": 1,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/1.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/"
+        }
+      ]
+    },
+    {
+      "id": "qdl-ndk",
+      "name": "QDL For Android NDK",
+      "version": "v1.0",
+      "version_code": 20220806,
+      "author": "JonesqPacMan™",
+      "description": "Qualcomm Download (QDL) is open source flashtool that implements the Qualcomm Sahara and Firehose protocols, and can be used for program (or unbrick) MSM based devices. This static binary support multi architectures built with the NDK",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1659744733000,
+          "version": "v1.0 (20220806)",
+          "version_code": 20220806,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/qdl-ndk/20220806.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/qdl-ndk/"
+        }
+      ]
+    },
+    {
+      "id": "QS_Rectangulares",
+      "name": "Quick Settings Modded",
+      "version": "v1.0",
+      "version_code": 1,
+      "author": "@CrazybytesVE",
+      "description": "Este módulo coloca los Quick Settings más rectangulares, con un fondo degradado.",
+      "metadata": {
+        "license": "GPL-2.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/QS_Rectangulares.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/QS_Rectangulares/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1661166618000,
+          "version": "v1.0 (1)",
+          "version_code": 1,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/QS_Rectangulares/1.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/QS_Rectangulares/1.md"
+        }
+      ]
+    },
+    {
+      "id": "resampling-for-cheapies",
+      "name": "Resampling for cheapies",
+      "version": "v1.0.1",
+      "version_code": 1001,
+      "author": "zyhk",
+      "description": "For avoiding muddy distortion specific to LDAC Bluetooth earphones and DAC's under $30 (probably), this sets special re-sampling at the system-wide mixer.",
+      "metadata": {
+        "license": "AGPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1718346366000,
+          "version": "v1.0.1 (1001)",
+          "version_code": 1001,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/resampling-for-cheapies/1001.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/resampling-for-cheapies/1001.md"
+        }
+      ]
+    },
+    {
+      "id": "RTKS",
+      "name": "RaidenTweaks",
+      "version": "v4.6.6",
+      "version_code": 466,
+      "author": "@raidenkkj",
+      "description": "Module focused on maximizing user experience, multiple profiles you can change!",
+      "metadata": {
+        "license": "GPL-2.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/RTKS.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/RTKS/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1669914042000,
+          "version": "v4.6.6 (466)",
+          "version_code": 466,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/RTKS/466.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/RTKS/466.md"
+        }
+      ]
+    },
+    {
+      "id": "saturation",
+      "name": "Saturation",
+      "version": "v1.1",
+      "version_code": 2,
+      "author": "Draco",
+      "description": "Increase the saturation of the panel to 2x.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/saturation.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/saturation/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1598478612000,
+          "version": "v1.1 (2)",
+          "version_code": 2,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/saturation/2.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/saturation/"
+        }
+      ]
+    },
+    {
+      "id": "selinux_mode",
+      "name": "Selinux Mode Changer",
+      "version": "2.6.2",
+      "version_code": 262,
+      "author": "alicee98",
+      "description": "Change Your Selinux Mode",
+      "metadata": {
+        "license": "MIT",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/selinux_mode.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/selinux_mode/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1657442127000,
+          "version": "2.6.2 (262)",
+          "version_code": 262,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/selinux_mode/262.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/selinux_mode/262.md"
+        }
+      ]
+    },
+    {
+      "id": "sensitive_props",
+      "name": "SafetyNet sensitive props",
+      "version": "v3",
+      "version_code": 3,
+      "author": "HuskyDG",
+      "description": "Reset sensitive properties to safe state and try to bypass Safetynet / Play Integrity",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1707749983000,
+          "version": "v3 (3)",
+          "version_code": 3,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/sensitive_props/3.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/sensitive_props/"
+        }
+      ]
+    },
+    {
+      "id": "simple_bootloopsaver",
+      "name": "Simple Bootloop Saver",
+      "version": "v2",
+      "version_code": 3,
+      "author": "ez-me",
+      "description": "Protect your system from bootloop caused by Magisk modules by turning off all your modules and restart your system if bootloop is detected.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1690305811000,
+          "version": "v2 (3)",
+          "version_code": 3,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/simple_bootloopsaver/3.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/simple_bootloopsaver/"
+        }
+      ]
+    },
+    {
+      "id": "smallbattery",
+      "name": "Small Battery",
+      "version": "v1",
+      "version_code": 1,
+      "author": "@LeanHijosdesusMadres [telegram]",
+      "description": "This module makes the system think that it has a smaller battery than normal, which will apply more precise adjustments to save battery. @modulostk",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1692753832000,
+          "version": "v1 (1)",
+          "version_code": 1,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/smallbattery/1.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/smallbattery/"
+        }
+      ]
+    },
+    {
+      "id": "sqlite3",
+      "name": "SQLite for arm, arm64, x86 and x64 devices",
+      "version": "v3.46.0",
+      "version_code": 20240615,
+      "author": "Rojen Zaman",
+      "description": "Provides a statically linked sqlite3 binary for arm, arm64, x86 and x64 devices",
+      "metadata": {
+        "homepage": "https://github.com/rojenzaman/sqlite3-magisk-module/releases",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/sqlite3.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/sqlite3/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1718475131000,
+          "version": "v3.46.0 (20240615)",
+          "version_code": 20240615,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/sqlite3/20240615.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/sqlite3/"
+        }
+      ]
+    },
+    {
+      "id": "StevenBlock",
+      "name": "StevenBlock | Anti-Malware & Ad Blocker",
+      "version": "v1.1.8",
+      "version_code": 19,
+      "author": "𝗪𝗜𝗡𝗭𝗢𝗥𝗧",
+      "description": "StevenBlock protects your device from malware and unwanted ads. This Magisk module keeps your browsers and apps safe from malicious content, so you can enjoy a clean and smooth internet experience.",
+      "metadata": {
+        "license": "GPL-2.0",
+        "homepage": "https://github.com/mikropsoft/StevenBlock",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1719068434104,
+          "version": "v1.1.8 (19)",
+          "version_code": 19,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/19.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/19.md"
+        }
+      ]
+    },
+    {
+      "id": "supl-replacer",
+      "name": "A-GPS SUPL replacer",
+      "version": "v2.2.1",
+      "version_code": 5,
+      "author": "PlqnK, D3SOX",
+      "description": "Replace the SUPL (Secure User-Plane Location) provider in Android's gps.conf.",
+      "metadata": {
+        "license": "BSD-3-Clause",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1678882493000,
+          "version": "v2.2.1 (5)",
+          "version_code": 5,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/supl-replacer/5.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/supl-replacer/5.md"
+        }
+      ]
+    },
+    {
+      "id": "systemless_adblocker",
+      "name": "Systemless Adblocker",
+      "version": "1.6",
+      "version_code": 106,
+      "author": "burhanverse",
+      "description": "An efficient adblocker based out of @gloeyisk's systemless-host module with no user interface & the lastest hosts from github@StevenBlack",
+      "metadata": {
+        "license": "MIT",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/systemless-adblocker.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/systemless-adblocker/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1717798630000,
+          "version": "1.6 (106)",
+          "version_code": 106,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/systemless_adblocker/106.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/systemless_adblocker/106.md"
+        }
+      ]
+    },
+    {
+      "id": "SystemlessDebloater",
+      "name": "Systemless Debloater",
+      "version": "1.5.4",
+      "version_code": 154,
+      "author": "zgfg @ xda",
+      "description": "Select and debloat preinstalled system apps. Successfully tested on up to SAR, Dynamic partitions and A13. Module must be installed through Magisk app, not TWRP - see OP instructions in the XDA thread.",
+      "metadata": {
+        "license": "LGPL-2.1",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater.git",
+        "donate": "https://zgfg.github.io/PayPal.html",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1696364959000,
+          "version": "1.5.4 (154)",
+          "version_code": 154,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/SystemlessDebloater/154.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/SystemlessDebloater/154.md"
+        }
+      ]
+    },
+    {
+      "id": "systemui-bootloop",
+      "name": "SystemUI Bootloop Saver",
+      "version": "v1.0.0",
+      "version_code": 100,
+      "author": "n3rd3x3",
+      "description": "A Magisk Module that aims to stop SystemUI from bootlooping.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "homepage": "https://tsukimio.github.io/systemui-bootloop",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1643742427000,
+          "version": "v1.0.0 (100)",
+          "version_code": 100,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/systemui-bootloop/100.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/systemui-bootloop/100.md"
+        }
+      ]
+    },
+    {
+      "id": "ToyBox-Ext",
+      "name": "ToyBox (Ext)",
+      "version": "1.0.9",
+      "version_code": 109,
+      "author": "zgfg @ xda",
+      "description": "Additional toybox applets. SUPPORTED: ARMv7 and higher, all Android versions",
+      "metadata": {
+        "license": "0BSD",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext.git",
+        "donate": "https://zgfg.github.io/PayPal.html",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1691426606000,
+          "version": "1.0.9 (109)",
+          "version_code": 109,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ToyBox-Ext/109.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ToyBox-Ext/109.md"
+        }
+      ]
+    },
+    {
+      "id": "trichromelibrary-squoosh",
+      "name": "TrichromeLibrary Squoosh",
+      "version": "v1.4",
+      "version_code": 20220623,
+      "author": "entr0pia@GitHub",
+      "description": "Remove the outdated TrichromeLibrary after reboot | 重启后移除过时的 TrichromeLibrary",
+      "metadata": {
+        "license": "MIT",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1655967999000,
+          "version": "v1.4 (20220623)",
+          "version_code": 20220623,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/trichromelibrary-squoosh/20220623.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/trichromelibrary-squoosh/20220623.md"
+        }
+      ]
+    },
+    {
+      "id": "ttf-twemoji",
+      "name": "Twemoji replacer",
+      "version": "v15.0.2",
+      "version_code": 1502,
+      "author": "ez-me & Twitter",
+      "description": "Changes your system emoji to Twemoji!",
+      "metadata": {
+        "license": "MIT",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1701825089000,
+          "version": "v15.0.2 (1502)",
+          "version_code": 1502,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ttf-twemoji/1502.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ttf-twemoji/"
+        }
+      ]
+    },
+    {
+      "id": "UbuntuFontVinaooo",
+      "name": "Ubuntu Font",
+      "version": "v1.0.1",
+      "version_code": 1,
+      "author": "Vinicius Rubens Pedrinho",
+      "description": "Apply Ubuntu font systemless",
+      "metadata": {
+        "license": "MIT",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1683467033000,
+          "version": "v1.0.1 (1)",
+          "version_code": 1,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/UbuntuFontVinaooo/1.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/UbuntuFontVinaooo/"
+        }
+      ]
+    },
+    {
+      "id": "unityfix",
+      "name": "UnityFix",
+      "version": "6.0",
+      "version_code": 6,
+      "author": "@LeanHijosdesusMadres [telegram]",
+      "description": "Mejora el rendimiento de Call of Duty Mobile, Genshin Impact y otros juegos de motor Unity • Improves the performance of Call of Duty Mobile, Genshin Impact and other Unity engine games",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/unityfix.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/unityfix/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1713299452000,
+          "version": "6.0 (6)",
+          "version_code": 6,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/unityfix/6.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/unityfix/"
+        }
+      ]
+    },
+    {
+      "id": "upx-ndk",
+      "name": "UPX For Android NDK",
+      "version": "v3.96",
+      "version_code": 396,
+      "author": "JonesqPacMan™",
+      "description": "UPX (Ultimate Packer for Executables) is a free and open source executable packer supporting a number of file formats from different operating systems . This static binary support multi architectures built with the NDK",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/upx-ndk.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/upx-ndk/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1659745041000,
+          "version": "v3.96 (396)",
+          "version_code": 396,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/upx-ndk/396.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/upx-ndk/"
+        }
+      ]
+    },
+    {
+      "id": "usb-samplerate-unlocker",
+      "name": "USB Samplerate Unlocker",
+      "version": "v1.5.6",
+      "version_code": 1506,
+      "author": "zyhk",
+      "description": "USB (HAL) audio class drivers have a limiter of sample rates at 96kHz. This mod unlocks the limiter.",
+      "metadata": {
+        "license": "AGPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1713443976000,
+          "version": "v1.5.6 (1506)",
+          "version_code": 1506,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/usb-samplerate-unlocker/1506.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/usb-samplerate-unlocker/1506.md"
+        }
+      ]
+    },
+    {
+      "id": "vintf-bypass",
+      "name": "VTS Check Bypass",
+      "version": "v1.1",
+      "version_code": 2,
+      "author": "Draco",
+      "description": "Disable HAL and Kernel config checks on boot.",
+      "metadata": {
+        "license": "GPL-3.0",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1598025275000,
+          "version": "v1.1 (2)",
+          "version_code": 2,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/vintf-bypass/2.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/vintf-bypass/"
+        }
+      ]
+    },
+    {
+      "id": "wifi-bonding",
+      "name": "Wi-Fi Bonding NoLog [Qcom]",
+      "version": "v8",
+      "version_code": 8,
+      "author": "simonsmh x @LeanHijosdesusMadres",
+      "description": "Doubles your bandwidth, disables logs for less background loading (maybe save battery) and other tweaks (su -c wifigithub)",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1698433306000,
+          "version": "v8 (8)",
+          "version_code": 8,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/wifi-bonding/8.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/wifi-bonding/"
+        }
+      ]
+    },
+    {
+      "id": "xhhttp",
+      "name": "xh for Android",
+      "version": "v0.22.0",
+      "version_code": 221,
+      "author": "ducaale & Der_Googler",
+      "description": "Friendly and fast tool for sending HTTP requests",
+      "metadata": {
+        "license": "MIT",
+        "homepage": "https://github.com/ducaale/xh",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1719051889000,
+          "version": "v0.22.0 (221)",
+          "version_code": 221,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/xhhttp/221.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/xhhttp/"
+        }
+      ]
+    },
+    {
+      "id": "xmlpak-RE",
+      "name": "xmlpak-RE – a road to vendor apps",
+      "version": "v9.0",
+      "version_code": 90,
+      "author": "Rushi Ranpise ,RKBDI, Tadi (j1505243 at xda)",
+      "description": "This module enables you to download and install vendor apps from Google Play. Compatibility is not guaranteed.",
+      "metadata": {
+        "homepage": "https://github.com/rushiranpise/xmlpak-RE",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1701716537000,
+          "version": "v9.0 (90)",
+          "version_code": 90,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/xmlpak-RE/90.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/xmlpak-RE/90.md"
+        }
+      ]
+    },
+    {
+      "id": "YAKT",
+      "name": "Yet Another Kernel Tweaker",
+      "version": "v10",
+      "version_code": 1,
+      "author": "NotZeetaa",
+      "description": "This modules tweaks your kernel parameters.",
+      "metadata": {
+        "license": "MIT",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/YAKT.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/YAKT/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1693126069000,
+          "version": "v10 (1)",
+          "version_code": 1,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/YAKT/1.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/YAKT/"
+        }
+      ]
+    },
+    {
+      "id": "ytmusic_revancedinject",
+      "name": "YouTube Music ReVanced",
+      "version": "5.38.53",
+      "version_code": 2,
+      "author": "HuskyDG",
+      "description": "YouTube Music ReVanced repacked by HuskyDG. Require Magisk Process Monitor tool v2.1+ for Dynamic Mount",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/ytmusic_revancedinject.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/ytmusic_revancedinject/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1673338863000,
+          "version": "5.38.53 (2)",
+          "version_code": 2,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ytmusic_revancedinject/2.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ytmusic_revancedinject/"
+        }
+      ]
+    },
+    {
+      "id": "ytrevancedinject",
+      "name": "YouTube ReVanced",
+      "version": "18.01.36",
+      "version_code": 4,
+      "author": "HuskyDG",
+      "description": "YouTube ReVanced repacked by HuskyDG. Require Magisk Process Monitor tool v2.1+ for Dynamic Mount",
+      "metadata": {
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject/issues"
+      },
+      "versions": [
+        {
+          "timestamp": 1673704299000,
+          "version": "18.01.36 (4)",
+          "version_code": 4,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ytrevancedinject/4.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ytrevancedinject/"
+        }
+      ]
+    }
+  ]
+}

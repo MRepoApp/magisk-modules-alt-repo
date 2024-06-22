@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "charch_sshd",
+    "name": "ChArch SSHD",
+    "version": "v1.0",
+    "version_code": 1,
+    "author": "tytydraco",
+    "description": "Initialize SSHD for the default ChArch rootfs instance."
+  },
+  "versions": [
+    {
+      "timestamp": 1600642223000,
+      "version": "v1.0 (1)",
+      "version_code": 1,
+      "zip_file": "1.zip",
+      "changelog": ""
+    }
+  ]
+}

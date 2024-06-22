@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "NoStorageRestrict",
+    "name": "NoStorageRestrict",
+    "version": "v5",
+    "version_code": 6,
+    "author": "DanGLES3",
+    "description": "Disables the restriction of not being able to select certain folders (like downloads/sdcard) when prompted by apps"
+  },
+  "versions": [
+    {
+      "timestamp": 1703269294000,
+      "version": "v5 (6)",
+      "version_code": 6,
+      "zip_file": "6.zip",
+      "changelog": ""
+    }
+  ]
+}

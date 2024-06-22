@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "Google-Sans",
+    "name": "Google Sans",
+    "version": "v1.0",
+    "version_code": 1,
+    "author": "SourajitK",
+    "description": "Apply Google Sans everywhere, systemlessly."
+  },
+  "versions": [
+    {
+      "timestamp": 1598228686000,
+      "version": "v1.0 (1)",
+      "version_code": 1,
+      "zip_file": "1.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "simple_bootloopsaver",
+    "name": "Simple Bootloop Saver",
+    "version": "v2",
+    "version_code": 3,
+    "author": "ez-me",
+    "description": "Protect your system from bootloop caused by Magisk modules by turning off all your modules and restart your system if bootloop is detected."
+  },
+  "versions": [
+    {
+      "timestamp": 1690305811000,
+      "version": "v2 (3)",
+      "version_code": 3,
+      "zip_file": "3.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "font-koruri-n",
+    "name": "Koruri Font",
+    "version": "v28",
+    "version_code": 28,
+    "author": "lindwurm,AndroPlus",
+    "description": "Koruri font patch for Japanese users. Koruri is open source Japanese font."
+  },
+  "versions": [
+    {
+      "timestamp": 1711254247000,
+      "version": "v28 (28)",
+      "version_code": 28,
+      "zip_file": "28.zip",
+      "changelog": "28.md"
+    }
+  ]
+}

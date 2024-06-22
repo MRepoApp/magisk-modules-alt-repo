@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "UbuntuFontVinaooo",
+    "name": "Ubuntu Font",
+    "version": "v1.0.1",
+    "version_code": 1,
+    "author": "Vinicius Rubens Pedrinho",
+    "description": "Apply Ubuntu font systemless"
+  },
+  "versions": [
+    {
+      "timestamp": 1683467033000,
+      "version": "v1.0.1 (1)",
+      "version_code": 1,
+      "zip_file": "1.zip",
+      "changelog": ""
+    }
+  ]
+}

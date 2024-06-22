@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "smallbattery",
+    "name": "Small Battery",
+    "version": "v1",
+    "version_code": 1,
+    "author": "@LeanHijosdesusMadres [telegram]",
+    "description": "This module makes the system think that it has a smaller battery than normal, which will apply more precise adjustments to save battery. @modulostk"
+  },
+  "versions": [
+    {
+      "timestamp": 1692753832000,
+      "version": "v1 (1)",
+      "version_code": 1,
+      "zip_file": "1.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "unityfix",
+    "name": "UnityFix",
+    "version": "6.0",
+    "version_code": 6,
+    "author": "@LeanHijosdesusMadres [telegram]",
+    "description": "Mejora el rendimiento de Call of Duty Mobile, Genshin Impact y otros juegos de motor Unity • Improves the performance of Call of Duty Mobile, Genshin Impact and other Unity engine games"
+  },
+  "versions": [
+    {
+      "timestamp": 1713299452000,
+      "version": "6.0 (6)",
+      "version_code": 6,
+      "zip_file": "6.zip",
+      "changelog": ""
+    }
+  ]
+}

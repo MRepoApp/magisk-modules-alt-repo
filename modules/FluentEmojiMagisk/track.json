@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "FluentEmojiMagisk",
+    "name": "Fluent Emoji (Microsoft)",
+    "version": "v2023.03.17",
+    "version_code": 20230317,
+    "author": "k3rnelpanik",
+    "description": "Replaces system emojis with Fluent Emojis from Microsoft with the magic of Magisk."
+  },
+  "versions": [
+    {
+      "timestamp": 1691803198000,
+      "version": "v2023.03.17 (20230317)",
+      "version_code": 20230317,
+      "zip_file": "20230317.zip",
+      "changelog": "20230317.md"
+    }
+  ]
+}

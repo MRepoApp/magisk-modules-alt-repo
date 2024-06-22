@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "data_restore_Courier",
+    "name": "Courier of data_restore script for MAGISK-TWRP",
+    "version": "v2.14",
+    "version_code": 8,
+    "author": "ziand",
+    "description": "Courier of latest version data_restore script to folder /sdcard."
+  },
+  "versions": [
+    {
+      "timestamp": 1683752081000,
+      "version": "v2.14 (8)",
+      "version_code": 8,
+      "zip_file": "8.zip",
+      "changelog": "8.md"
+    }
+  ]
+}

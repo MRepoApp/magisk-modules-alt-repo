@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "SystemlessDebloater",
+    "name": "Systemless Debloater",
+    "version": "1.5.4",
+    "version_code": 154,
+    "author": "zgfg @ xda",
+    "description": "Select and debloat preinstalled system apps. Successfully tested on up to SAR, Dynamic partitions and A13. Module must be installed through Magisk app, not TWRP - see OP instructions in the XDA thread."
+  },
+  "versions": [
+    {
+      "timestamp": 1696364959000,
+      "version": "1.5.4 (154)",
+      "version_code": 154,
+      "zip_file": "154.zip",
+      "changelog": "154.md"
+    }
+  ]
+}

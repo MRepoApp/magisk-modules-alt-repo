@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "backup",
+    "name": "Backup",
+    "version": "v1.0",
+    "version_code": 1,
+    "author": "Draco",
+    "description": "An easy CLI backup tool without using a custom recovery."
+  },
+  "versions": [
+    {
+      "timestamp": 1599015487000,
+      "version": "v1.0 (1)",
+      "version_code": 1,
+      "zip_file": "1.zip",
+      "changelog": ""
+    }
+  ]
+}

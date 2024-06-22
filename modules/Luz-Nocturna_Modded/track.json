@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "Luz-Nocturna_Modded",
+    "name": "Luz Nocturna Modded",
+    "version": "v1.0",
+    "version_code": 1,
+    "author": "@CrazybytesVE",
+    "description": "Este módulo modifica los valores mínimos de \"Luz Nocturna\" para que sean menos cálidos (menos amarillentos). ."
+  },
+  "versions": [
+    {
+      "timestamp": 1665327252000,
+      "version": "v1.0 (1)",
+      "version_code": 1,
+      "zip_file": "1.zip",
+      "changelog": "1.md"
+    }
+  ]
+}

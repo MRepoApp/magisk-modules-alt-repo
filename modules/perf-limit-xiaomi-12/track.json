@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "perf-limit-xiaomi-12",
+    "name": "Performance limit for Xiaomi 12",
+    "version": "v2.4",
+    "version_code": 24,
+    "author": "mgrybyk",
+    "description": "Limit CPU and GPU performance to desired level on Xiaomi devices with Qualcomm Gen 1 CPU"
+  },
+  "versions": [
+    {
+      "timestamp": 1695975711000,
+      "version": "v2.4 (24)",
+      "version_code": 24,
+      "zip_file": "24.zip",
+      "changelog": ""
+    }
+  ]
+}

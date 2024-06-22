@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "data_backup",
+    "name": "Data backup creator",
+    "version": "v2.14",
+    "version_code": 7,
+    "author": "ziand",
+    "description": "Data backup creator for restoring by data_restore.zip from or Magisk module installer or TWRP"
+  },
+  "versions": [
+    {
+      "timestamp": 1686426009000,
+      "version": "v2.14 (7)",
+      "version_code": 7,
+      "zip_file": "7.zip",
+      "changelog": "7.md"
+    }
+  ]
+}

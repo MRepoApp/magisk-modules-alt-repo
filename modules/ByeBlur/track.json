@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "ByeBlur",
+    "name": "Bye Blur",
+    "version": "v3",
+    "version_code": 3,
+    "author": "@LeanHijosdesusMadres × @nonosvaimos",
+    "description": "Disable the blur effect, this improves performance by discarding this complex visual effect."
+  },
+  "versions": [
+    {
+      "timestamp": 1705505468000,
+      "version": "v3 (3)",
+      "version_code": 3,
+      "zip_file": "3.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "disable-low-ram",
+    "name": "Disable Low Ram Flag",
+    "version": "v1",
+    "version_code": 1,
+    "author": "sekedus",
+    "description": "This module disable ro.config.low_ram flag on Android Go edition"
+  },
+  "versions": [
+    {
+      "timestamp": 1716766415000,
+      "version": "v1 (1)",
+      "version_code": 1,
+      "zip_file": "1.zip",
+      "changelog": "1.md"
+    }
+  ]
+}

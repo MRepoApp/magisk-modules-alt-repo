@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "ytrevancedinject",
+    "name": "YouTube ReVanced",
+    "version": "18.01.36",
+    "version_code": 4,
+    "author": "HuskyDG",
+    "description": "YouTube ReVanced repacked by HuskyDG. Require Magisk Process Monitor tool v2.1+ for Dynamic Mount"
+  },
+  "versions": [
+    {
+      "timestamp": 1673704299000,
+      "version": "18.01.36 (4)",
+      "version_code": 4,
+      "zip_file": "4.zip",
+      "changelog": ""
+    }
+  ]
+}

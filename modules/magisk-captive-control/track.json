@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "magisk-captive-control",
+    "name": "Magisk Captive Control (MCC)",
+    "version": "v1.0.0",
+    "version_code": 100,
+    "author": "Atrate",
+    "description": "A Magisk Module aiming to control (change/disable) Android Captive Portal Detection."
+  },
+  "versions": [
+    {
+      "timestamp": 1604596410000,
+      "version": "v1.0.0 (100)",
+      "version_code": 100,
+      "zip_file": "100.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "AFWall-Boot-AntiLeak",
+    "name": "AFWall Boot AntiLeak",
+    "version": "v1.3",
+    "version_code": 4,
+    "author": "GrayJackFixxxer",
+    "description": "A module to prevent internet access on boot BEFORE AfWall started and applied"
+  },
+  "versions": [
+    {
+      "timestamp": 1640525162000,
+      "version": "v1.3 (4)",
+      "version_code": 4,
+      "zip_file": "4.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "qdl-ndk",
+    "name": "QDL For Android NDK",
+    "version": "v1.0",
+    "version_code": 20220806,
+    "author": "JonesqPacMan™",
+    "description": "Qualcomm Download (QDL) is open source flashtool that implements the Qualcomm Sahara and Firehose protocols, and can be used for program (or unbrick) MSM based devices. This static binary support multi architectures built with the NDK"
+  },
+  "versions": [
+    {
+      "timestamp": 1659744733000,
+      "version": "v1.0 (20220806)",
+      "version_code": 20220806,
+      "zip_file": "20220806.zip",
+      "changelog": ""
+    }
+  ]
+}

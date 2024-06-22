@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "cmdpatch",
+    "name": "CMD Patch",
+    "version": "v1.0",
+    "version_code": 1,
+    "author": "tytydraco",
+    "description": "An Android Linux Kernel command line patch tool using Magisk's magiskboot binary."
+  },
+  "versions": [
+    {
+      "timestamp": 1598574218000,
+      "version": "v1.0 (1)",
+      "version_code": 1,
+      "zip_file": "1.zip",
+      "changelog": ""
+    }
+  ]
+}

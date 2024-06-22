@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "xhhttp",
+    "name": "xh for Android",
+    "version": "v0.22.0",
+    "version_code": 221,
+    "author": "ducaale & Der_Googler",
+    "description": "Friendly and fast tool for sending HTTP requests"
+  },
+  "versions": [
+    {
+      "timestamp": 1719051889000,
+      "version": "v0.22.0 (221)",
+      "version_code": 221,
+      "zip_file": "221.zip",
+      "changelog": ""
+    }
+  ]
+}

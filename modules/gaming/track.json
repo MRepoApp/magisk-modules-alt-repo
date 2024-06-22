@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "gaming",
+    "name": "GAMING乛Mode",
+    "version": "vFINAL",
+    "version_code": 5,
+    "author": "AkiraSuper",
+    "description": "null"
+  },
+  "versions": [
+    {
+      "timestamp": 1603068712000,
+      "version": "vFINAL (5)",
+      "version_code": 5,
+      "zip_file": "5.zip",
+      "changelog": ""
+    }
+  ]
+}

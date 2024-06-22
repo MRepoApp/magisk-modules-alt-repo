@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "open_webview",
+    "name": "Open Webview",
+    "version": "2.4.0",
+    "version_code": 240,
+    "author": "F3FFO",
+    "description": "Open Webview change your system webview"
+  },
+  "versions": [
+    {
+      "timestamp": 1709485366000,
+      "version": "2.4.0 (240)",
+      "version_code": 240,
+      "zip_file": "240.zip",
+      "changelog": "240.md"
+    }
+  ]
+}

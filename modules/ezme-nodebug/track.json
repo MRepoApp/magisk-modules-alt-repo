@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "ezme-nodebug",
+    "name": "Hide UserDebug, Test-Keys and LineageOS",
+    "version": "v1",
+    "version_code": 1000,
+    "author": "ez-me",
+    "description": "Change some props and \"remove\" LineageOS ones"
+  },
+  "versions": [
+    {
+      "timestamp": 1663012287000,
+      "version": "v1 (1000)",
+      "version_code": 1000,
+      "zip_file": "1000.zip",
+      "changelog": ""
+    }
+  ]
+}

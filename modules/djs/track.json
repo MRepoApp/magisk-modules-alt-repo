@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "djs",
+    "name": "Daily Job Scheduler (DJS)",
+    "version": "v2021.11.3",
+    "version_code": 202111030,
+    "author": "VR25",
+    "description": "Runs commands and scripts on boot and at HH:MM. Any root solution is supported. The installation is always \"system-less\", whether or not the system is rooted with Magisk."
+  },
+  "versions": [
+    {
+      "timestamp": 1639484648000,
+      "version": "v2021.11.3 (202111030)",
+      "version_code": 202111030,
+      "zip_file": "202111030.zip",
+      "changelog": ""
+    }
+  ]
+}

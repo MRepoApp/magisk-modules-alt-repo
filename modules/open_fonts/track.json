@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "open_fonts",
+    "name": "Open Fonts",
+    "version": "3.1.1",
+    "version_code": 119,
+    "author": "F3FFO",
+    "description": "Open Fonts change your system fonts"
+  },
+  "versions": [
+    {
+      "timestamp": 1682263480000,
+      "version": "3.1.1 (119)",
+      "version_code": 119,
+      "zip_file": "119.zip",
+      "changelog": "119.md"
+    }
+  ]
+}

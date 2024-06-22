@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "YAKT",
+    "name": "Yet Another Kernel Tweaker",
+    "version": "v10",
+    "version_code": 1,
+    "author": "NotZeetaa",
+    "description": "This modules tweaks your kernel parameters."
+  },
+  "versions": [
+    {
+      "timestamp": 1693126069000,
+      "version": "v10 (1)",
+      "version_code": 1,
+      "zip_file": "1.zip",
+      "changelog": ""
+    }
+  ]
+}

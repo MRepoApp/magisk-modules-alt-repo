@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "GMSDoze",
+    "name": "GMS Doze",
+    "version": "v1.4A",
+    "version_code": 140,
+    "author": "CrazybytesVE",
+    "description": "Aplica Doze a los Google Play Services (GMS), maximizando batería. INSTALAR LUEGO DE CONFIGURAR CUENTA GOOGLE."
+  },
+  "versions": [
+    {
+      "timestamp": 1683468397000,
+      "version": "v1.4A (140)",
+      "version_code": 140,
+      "zip_file": "140.zip",
+      "changelog": "140.md"
+    }
+  ]
+}

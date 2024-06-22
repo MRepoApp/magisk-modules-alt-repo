@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "wifi-bonding",
+    "name": "Wi-Fi Bonding NoLog [Qcom]",
+    "version": "v8",
+    "version_code": 8,
+    "author": "simonsmh x @LeanHijosdesusMadres",
+    "description": "Doubles your bandwidth, disables logs for less background loading (maybe save battery) and other tweaks (su -c wifigithub)"
+  },
+  "versions": [
+    {
+      "timestamp": 1698433306000,
+      "version": "v8 (8)",
+      "version_code": 8,
+      "zip_file": "8.zip",
+      "changelog": ""
+    }
+  ]
+}

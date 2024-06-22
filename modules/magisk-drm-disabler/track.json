@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "magisk-drm-disabler",
+    "name": "Magisk DRM Disabler (MDD)",
+    "version": "v1.3.1",
+    "version_code": 131,
+    "author": "Atrate",
+    "description": "A Magisk Module aiming to eliminate DRM from Android systemlessly."
+  },
+  "versions": [
+    {
+      "timestamp": 1612778235000,
+      "version": "v1.3.1 (131)",
+      "version_code": 131,
+      "zip_file": "131.zip",
+      "changelog": ""
+    }
+  ]
+}

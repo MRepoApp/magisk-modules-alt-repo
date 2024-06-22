@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "magic-flash",
+    "name": "Magic FlashTool (Terminal Emulator)",
+    "version": "v1.6",
+    "version_code": 10006,
+    "author": "HuskyDG",
+    "description": "An android CLI flash tool without custom recoveries. Usage: flash [ZIP...]"
+  },
+  "versions": [
+    {
+      "timestamp": 1652933875000,
+      "version": "v1.6 (10006)",
+      "version_code": 10006,
+      "zip_file": "10006.zip",
+      "changelog": ""
+    }
+  ]
+}

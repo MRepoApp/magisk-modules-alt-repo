@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "saturation",
+    "name": "Saturation",
+    "version": "v1.1",
+    "version_code": 2,
+    "author": "Draco",
+    "description": "Increase the saturation of the panel to 2x."
+  },
+  "versions": [
+    {
+      "timestamp": 1598478612000,
+      "version": "v1.1 (2)",
+      "version_code": 2,
+      "zip_file": "2.zip",
+      "changelog": ""
+    }
+  ]
+}

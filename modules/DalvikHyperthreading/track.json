@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "DalvikHyperthreading",
+    "name": "DalvikHyperthreading",
+    "version": "v2",
+    "version_code": 2,
+    "author": "@LeanHijosdesusMadres [telegram]",
+    "description": "This does is helps the multithread line to tell the cpu to easily do more faster proccessing without overheating."
+  },
+  "versions": [
+    {
+      "timestamp": 1673728563000,
+      "version": "v2 (2)",
+      "version_code": 2,
+      "zip_file": "2.zip",
+      "changelog": ""
+    }
+  ]
+}

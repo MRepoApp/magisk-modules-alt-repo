@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "systemui-bootloop",
+    "name": "SystemUI Bootloop Saver",
+    "version": "v1.0.0",
+    "version_code": 100,
+    "author": "n3rd3x3",
+    "description": "A Magisk Module that aims to stop SystemUI from bootlooping."
+  },
+  "versions": [
+    {
+      "timestamp": 1643742427000,
+      "version": "v1.0.0 (100)",
+      "version_code": 100,
+      "zip_file": "100.zip",
+      "changelog": "100.md"
+    }
+  ]
+}

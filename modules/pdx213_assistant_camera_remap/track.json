@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "pdx213_assistant_camera_remap",
+    "name": "Xperia 10 III GA Button Remapper",
+    "version": "v1.2",
+    "version_code": 1,
+    "author": "lufei",
+    "description": "Remap the Google Assistant Button as a camera button."
+  },
+  "versions": [
+    {
+      "timestamp": 1661242317000,
+      "version": "v1.2 (1)",
+      "version_code": 1,
+      "zip_file": "1.zip",
+      "changelog": ""
+    }
+  ]
+}

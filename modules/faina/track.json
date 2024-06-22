@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "faina",
+    "name": "\"pm Install\" from anywhere",
+    "version": "0.1",
+    "version_code": 1,
+    "author": "Kartatz",
+    "description": "Allow the 'pm' CLI utility to install APKs from anywhere."
+  },
+  "versions": [
+    {
+      "timestamp": 1711371168000,
+      "version": "0.1 (1)",
+      "version_code": 1,
+      "zip_file": "1.zip",
+      "changelog": ""
+    }
+  ]
+}

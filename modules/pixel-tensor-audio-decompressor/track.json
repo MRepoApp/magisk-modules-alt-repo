@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "pixel-tensor-audio-decompressor",
+    "name": "Pixel Tensor Audio Decompressor",
+    "version": "v2.1.0",
+    "version_code": 210,
+    "author": "JoshuaDoes",
+    "description": "Patches mixer_paths.xml on Pixel Tensor devices to decompress the digital PCM volume."
+  },
+  "versions": [
+    {
+      "timestamp": 1691055436000,
+      "version": "v2.1.0 (210)",
+      "version_code": 210,
+      "zip_file": "210.zip",
+      "changelog": ""
+    }
+  ]
+}

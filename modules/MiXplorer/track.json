@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "MiXplorer",
+    "name": "MiXplorer",
+    "version": "v6.64.3_at20240323",
+    "version_code": 29,
+    "author": "Psk.It",
+    "description": "MiXplorer + all addons    "
+  },
+  "versions": [
+    {
+      "timestamp": 1711189357000,
+      "version": "v6.64.3_at20240323 (29)",
+      "version_code": 29,
+      "zip_file": "29.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "isodrive",
+    "name": "Isodrive",
+    "version": "2.1",
+    "version_code": 21,
+    "author": "Marcel Alexandru Nitan",
+    "description": "Use your mobile device to boot Linux distributions/ISO files on your PC"
+  },
+  "versions": [
+    {
+      "timestamp": 1693645620000,
+      "version": "2.1 (21)",
+      "version_code": 21,
+      "zip_file": "21.zip",
+      "changelog": ""
+    }
+  ]
+}

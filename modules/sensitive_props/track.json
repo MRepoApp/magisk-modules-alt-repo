@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "sensitive_props",
+    "name": "SafetyNet sensitive props",
+    "version": "v3",
+    "version_code": 3,
+    "author": "HuskyDG",
+    "description": "Reset sensitive properties to safe state and try to bypass Safetynet / Play Integrity"
+  },
+  "versions": [
+    {
+      "timestamp": 1707749983000,
+      "version": "v3 (3)",
+      "version_code": 3,
+      "zip_file": "3.zip",
+      "changelog": ""
+    }
+  ]
+}

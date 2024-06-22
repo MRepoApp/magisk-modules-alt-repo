@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "CustomizedNavbar",
+    "name": "Customized Navbar",
+    "version": "3.2",
+    "version_code": 5,
+    "author": "Pycm [4PDA]",
+    "description": "Change Navbar Gesture Indicator color to match the theme's accent color, increase wide and thickness"
+  },
+  "versions": [
+    {
+      "timestamp": 1665102744000,
+      "version": "3.2 (5)",
+      "version_code": 5,
+      "zip_file": "5.zip",
+      "changelog": "5.md"
+    }
+  ]
+}

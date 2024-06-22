@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "heimdall-ndk",
+    "name": "Heimdall For Android NDK",
+    "version": "v2.0.2",
+    "version_code": 202,
+    "author": "JonesqPacMan™",
+    "description": "Heimdall is a tool for flashing firmware (aka ROMs) onto Samsung Galaxy series devices over a USB connection. It accomplishes this using the same protocol as Odin . This static binary support multi architectures built with the NDK"
+  },
+  "versions": [
+    {
+      "timestamp": 1659743807000,
+      "version": "v2.0.2 (202)",
+      "version_code": 202,
+      "zip_file": "202.zip",
+      "changelog": ""
+    }
+  ]
+}

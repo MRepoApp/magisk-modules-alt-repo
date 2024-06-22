@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "Clash4Magisk",
+    "name": "Clash for Magisk",
+    "version": "1.13.6",
+    "version_code": 101306060,
+    "author": "Kry9toN",
+    "description": "Clash meta core with service scripts for Android."
+  },
+  "versions": [
+    {
+      "timestamp": 1697354142000,
+      "version": "1.13.6 (101306060)",
+      "version_code": 101306060,
+      "zip_file": "101306060.zip",
+      "changelog": "101306060.md"
+    }
+  ]
+}

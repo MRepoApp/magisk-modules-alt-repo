@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "StevenBlock",
+    "name": "StevenBlock | Anti-Malware & Ad Blocker",
+    "version": "v1.1.8",
+    "version_code": 19,
+    "author": "𝗪𝗜𝗡𝗭𝗢𝗥𝗧",
+    "description": "StevenBlock protects your device from malware and unwanted ads. This Magisk module keeps your browsers and apps safe from malicious content, so you can enjoy a clean and smooth internet experience."
+  },
+  "versions": [
+    {
+      "timestamp": 1719068434104,
+      "version": "v1.1.8 (19)",
+      "version_code": 19,
+      "zip_file": "19.zip",
+      "changelog": "19.md"
+    }
+  ]
+}

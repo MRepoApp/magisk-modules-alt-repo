@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "acc",
+    "name": "Advanced Charging Controller (ACC)",
+    "version": "v2023.10.16",
+    "version_code": 202310160,
+    "author": "VR25",
+    "description": "Extend your battery's service life by controlling charging current, temperature, and voltage. Any root solution is supported. The installation is always \"systemless\". Works on Android and KaiOS."
+  },
+  "versions": [
+    {
+      "timestamp": 1697485570000,
+      "version": "v2023.10.16 (202310160)",
+      "version_code": 202310160,
+      "zip_file": "202310160.zip",
+      "changelog": "202310160.md"
+    }
+  ]
+}

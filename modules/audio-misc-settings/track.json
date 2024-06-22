@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "audio-misc-settings",
+    "name": "Audio misc. settings",
+    "version": "v1.3.7",
+    "version_code": 1307,
+    "author": "zyhk",
+    "description": "Setting audio misc. configuration values (e.g. 100 volume steps, raising the resampling quality, disabling the effects framework, etc.)"
+  },
+  "versions": [
+    {
+      "timestamp": 1718274057000,
+      "version": "v1.3.7 (1307)",
+      "version_code": 1307,
+      "zip_file": "1307.zip",
+      "changelog": "1307.md"
+    }
+  ]
+}

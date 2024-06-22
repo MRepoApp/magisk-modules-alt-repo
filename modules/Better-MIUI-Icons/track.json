@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "Better-MIUI-Icons",
+    "name": "Better MIUI Icons",
+    "version": "MIUI12 v1",
+    "version_code": 1,
+    "author": "SpicyChair",
+    "description": "Systemlessly install the nice icons from MiRoom to any MIUI 12-based ROM."
+  },
+  "versions": [
+    {
+      "timestamp": 1615045465000,
+      "version": "MIUI12 v1 (1)",
+      "version_code": 1,
+      "zip_file": "1.zip",
+      "changelog": ""
+    }
+  ]
+}

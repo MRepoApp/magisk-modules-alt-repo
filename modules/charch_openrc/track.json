@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "charch_openrc",
+    "name": "ChArch OpenRC",
+    "version": "v1.1",
+    "version_code": 2,
+    "author": "tytydraco",
+    "description": "Initialize OpenRC for the default ChArch rootfs instance."
+  },
+  "versions": [
+    {
+      "timestamp": 1600642258000,
+      "version": "v1.1 (2)",
+      "version_code": 2,
+      "zip_file": "2.zip",
+      "changelog": ""
+    }
+  ]
+}

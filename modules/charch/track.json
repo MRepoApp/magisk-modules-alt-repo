@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "charch",
+    "name": "ChArch",
+    "version": "v1.0",
+    "version_code": 1,
+    "author": "tytydraco",
+    "description": "An Android-patched Magisk Module implementation of ChArch."
+  },
+  "versions": [
+    {
+      "timestamp": 1638831717000,
+      "version": "v1.0 (1)",
+      "version_code": 1,
+      "zip_file": "1.zip",
+      "changelog": ""
+    }
+  ]
+}

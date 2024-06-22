@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "audio-jitter-silencer",
+    "name": "Audio jitter silencer",
+    "version": "v1.0.8",
+    "version_code": 1008,
+    "author": "zyhk",
+    "description": "Disabling very large audio jitter generators (w.r.t. battery draining & optimizations, and wireless connectivity) for reducing audio jitter distortion on all digital audio outputs."
+  },
+  "versions": [
+    {
+      "timestamp": 1713162378000,
+      "version": "v1.0.8 (1008)",
+      "version_code": 1008,
+      "zip_file": "1008.zip",
+      "changelog": "1008.md"
+    }
+  ]
+}

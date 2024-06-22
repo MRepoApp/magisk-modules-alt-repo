@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "data_isolation_support",
+    "name": "AppDataIsolation Legacy Support",
+    "version": "1.2",
+    "version_code": 3,
+    "author": "HuskyDG",
+    "description": "Enable /data/data isolation for old Android version (Android 10 and lower). Require Magisk process monitor tool v1.1+"
+  },
+  "versions": [
+    {
+      "timestamp": 1670983400000,
+      "version": "1.2 (3)",
+      "version_code": 3,
+      "zip_file": "3.zip",
+      "changelog": ""
+    }
+  ]
+}

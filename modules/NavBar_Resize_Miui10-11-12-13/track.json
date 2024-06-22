@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "NavBar_Resize_Miui10-11-12-13",
+    "name": "36DPI NavBar para Miui",
+    "version": "v2.0",
+    "version_code": 2,
+    "author": "CrazyBytesVE",
+    "description": "Barra de Navegación reducida a 36DPI, compatible con Android 8 y superiores (12.1 compatible). Probado en ROMs Miui 10 o superior (Miui 13 compatible)."
+  },
+  "versions": [
+    {
+      "timestamp": 1665059184000,
+      "version": "v2.0 (2)",
+      "version_code": 2,
+      "zip_file": "2.zip",
+      "changelog": "2.md"
+    }
+  ]
+}

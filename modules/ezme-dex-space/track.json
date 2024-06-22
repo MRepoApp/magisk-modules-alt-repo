@@ -1,0 +1,19 @@
+{
+  "module": {
+    "id": "ezme-dex-space",
+    "name": "Space saving Ahead-of-Time",
+    "version": "v1",
+    "version_code": 1000,
+    "author": "ez-me",
+    "description": "Changes how Android's dex2oat compiles packages to save space, rather than focus on speed. "
+  },
+  "versions": [
+    {
+      "timestamp": 1662814335000,
+      "version": "v1 (1000)",
+      "version_code": 1000,
+      "zip_file": "1000.zip",
+      "changelog": ""
+    }
+  ]
+}
