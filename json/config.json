@@ -979,20 +979,6 @@
       }
     },
     {
-      "id": "mkshrc",
-      "kind": "git",
-      "provider": "git@github.com:Magisk-Modules-Alt-Repo/mkshrc.git",
-      "metadata": {
-        "license": "GPL-3.0",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc.git",
-        "donate": "https://github.com/sponsors/DerGoogler",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/issues"
-      },
-      "setting": {
-        "disabled": false
-      }
-    },
-    {
       "id": "NavBar_Resize",
       "kind": "git",
       "provider": "git@github.com:Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP.git",
@@ -1015,20 +1001,6 @@
         "license": "GPL-2.0",
         "source": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI/issues"
-      },
-      "setting": {
-        "disabled": false
-      }
-    },
-    {
-      "id": "node_on_android",
-      "kind": "git",
-      "provider": "git@github.com:Magisk-Modules-Alt-Repo/node.git",
-      "metadata": {
-        "license": "MIT",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/node.git",
-        "donate": "https://github.com/sponsors/DerGoogler",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/node/issues"
       },
       "setting": {
         "disabled": false
@@ -1538,20 +1510,6 @@
       "metadata": {
         "source": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog.git",
         "support": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/issues"
-      },
-      "setting": {
-        "disabled": false
-      }
-    },
-    {
-      "id": "xhhttp",
-      "kind": "git",
-      "provider": "git@github.com:Magisk-Modules-Alt-Repo/xhhttp.git",
-      "metadata": {
-        "license": "MIT",
-        "homepage": "https://github.com/ducaale/xh",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/issues"
       },
       "setting": {
         "disabled": false
