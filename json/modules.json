@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo (mirror)",
-  "timestamp": 1719071302098,
+  "timestamp": 1719074321250,
   "metadata": {
     "homepage": "https://github.com/MRepoApp/magisk-modules-alt-repo",
     "support": "https://github.com/MRepoApp/magisk-modules-alt-repo/issues"
@@ -1320,29 +1320,6 @@
       ]
     },
     {
-      "id": "mkshrc",
-      "name": "Systemless Mkshrc",
-      "version": "1.5.14",
-      "version_code": 1514,
-      "author": "Der_Googler",
-      "description": "Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.",
-      "metadata": {
-        "license": "GPL-3.0",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc.git",
-        "donate": "https://github.com/sponsors/DerGoogler",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/issues"
-      },
-      "versions": [
-        {
-          "timestamp": 1719051786000,
-          "version": "1.5.14 (1514)",
-          "version_code": 1514,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/mkshrc/1514.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
       "id": "NavBar_Resize",
       "name": "36DPI NavBar AOSP",
       "version": "v1.1",
@@ -1383,29 +1360,6 @@
           "version_code": 2,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/NavBar_Resize_Miui10-11-12-13/2.zip",
           "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/NavBar_Resize_Miui10-11-12-13/2.md"
-        }
-      ]
-    },
-    {
-      "id": "node_on_android",
-      "name": "Systemless Node.js",
-      "version": "1.5.5",
-      "version_code": 155,
-      "author": "Der_Googler",
-      "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
-      "metadata": {
-        "license": "MIT",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/node.git",
-        "donate": "https://github.com/sponsors/DerGoogler",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/node/issues"
-      },
-      "versions": [
-        {
-          "timestamp": 1719051838000,
-          "version": "1.5.5 (155)",
-          "version_code": 155,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/node_on_android/155.zip",
-          "changelog": ""
         }
       ]
     },
@@ -2151,29 +2105,6 @@
           "version": "v8 (8)",
           "version_code": 8,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/wifi-bonding/8.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "xhhttp",
-      "name": "xh for Android",
-      "version": "v0.22.0",
-      "version_code": 221,
-      "author": "ducaale & Der_Googler",
-      "description": "Friendly and fast tool for sending HTTP requests",
-      "metadata": {
-        "license": "MIT",
-        "homepage": "https://github.com/ducaale/xh",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/issues"
-      },
-      "versions": [
-        {
-          "timestamp": 1719051889000,
-          "version": "v0.22.0 (221)",
-          "version_code": 221,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/xhhttp/221.zip",
           "changelog": ""
         }
       ]
