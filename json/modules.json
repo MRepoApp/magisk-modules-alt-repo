@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo (mirror)",
-  "timestamp": 1719074321250,
+  "timestamp": 1719076119461,
   "metadata": {
     "homepage": "https://github.com/MRepoApp/magisk-modules-alt-repo",
     "support": "https://github.com/MRepoApp/magisk-modules-alt-repo/issues"
@@ -358,28 +358,6 @@
       ]
     },
     {
-      "id": "com.omergoktas.Foundation",
-      "name": "Foundation",
-      "version": "v1.2",
-      "version_code": 102,
-      "author": "omergoktas",
-      "description": "Magisk module comprising essential apps (including a patched version of Google Play Store compatible with microG) and convenient settings for vanilla Android builds.",
-      "metadata": {
-        "license": "GPL-3.0",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation/issues"
-      },
-      "versions": [
-        {
-          "timestamp": 1673551553000,
-          "version": "v1.2 (102)",
-          "version_code": 102,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/com.omergoktas.Foundation/102.zip",
-          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/com.omergoktas.Foundation/102.md"
-        }
-      ]
-    },
-    {
       "id": "compatible-magisk-mirroring",
       "name": "Compatible Magisk-mirroring",
       "version": "v1.1.3",
@@ -731,28 +709,6 @@
       ]
     },
     {
-      "id": "FOSSAPPS",
-      "name": "FOSSAPPS",
-      "version": "v1.5",
-      "version_code": 50620,
-      "author": "Wacko1805",
-      "description": "Basicly GAPPS, but all apps are open source and not Google apps",
-      "metadata": {
-        "license": "Apache-2.0",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS/issues"
-      },
-      "versions": [
-        {
-          "timestamp": 1605409356000,
-          "version": "v1.5 (50620)",
-          "version_code": 50620,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/FOSSAPPS/50620.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
       "id": "frozen_magisk_app",
       "name": "Frozen Magisk app",
       "version": "1.2",
@@ -791,27 +747,6 @@
           "version": "vFINAL (5)",
           "version_code": 5,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/gaming/5.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "GlitchedCyberBoot",
-      "name": "CyberGlitch BootAnimation mod",
-      "version": "1.1",
-      "version_code": 110,
-      "author": "SodaSoba",
-      "description": "Modified Cyberpunk2077 Bootanimation with color matching Shutdown animation for OOS 13",
-      "metadata": {
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/issues"
-      },
-      "versions": [
-        {
-          "timestamp": 1681338219000,
-          "version": "1.1 (110)",
-          "version_code": 110,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/GlitchedCyberBoot/110.zip",
           "changelog": ""
         }
       ]
@@ -900,28 +835,6 @@
           "version": "v1.0 (1)",
           "version_code": 1,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Google-Sans-Plus/1.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "Google_Product_Sans_Font",
-      "name": "Google Product Sans Font",
-      "version": "1.0",
-      "version_code": 1,
-      "author": "solomon_rajan",
-      "description": "Systemlessly Google Product Sans Font for Android 12!",
-      "metadata": {
-        "license": "GPL-3.0",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/issues"
-      },
-      "versions": [
-        {
-          "timestamp": 1646152481000,
-          "version": "1.0 (1)",
-          "version_code": 1,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Google_Product_Sans_Font/1.zip",
           "changelog": ""
         }
       ]
@@ -1252,27 +1165,6 @@
           "version_code": 18,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/18.zip",
           "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/Malwack/18.md"
-        }
-      ]
-    },
-    {
-      "id": "microG-GApps",
-      "name": "microG-GApps",
-      "version": "v0.2.28.231657",
-      "version_code": 29,
-      "author": "Psk.It",
-      "description": "microG, Playstore, Calendar Sync, Contacts Sync ",
-      "metadata": {
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps/issues"
-      },
-      "versions": [
-        {
-          "timestamp": 1690613826000,
-          "version": "v0.2.28.231657 (29)",
-          "version_code": 29,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/microG-GApps/29.zip",
-          "changelog": ""
         }
       ]
     },
@@ -2149,27 +2041,6 @@
           "version": "v10 (1)",
           "version_code": 1,
           "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/YAKT/1.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "ytmusic_revancedinject",
-      "name": "YouTube Music ReVanced",
-      "version": "5.38.53",
-      "version_code": 2,
-      "author": "HuskyDG",
-      "description": "YouTube Music ReVanced repacked by HuskyDG. Require Magisk Process Monitor tool v2.1+ for Dynamic Mount",
-      "metadata": {
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/ytmusic_revancedinject.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/ytmusic_revancedinject/issues"
-      },
-      "versions": [
-        {
-          "timestamp": 1673338863000,
-          "version": "5.38.53 (2)",
-          "version_code": 2,
-          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/ytmusic_revancedinject/2.zip",
           "changelog": ""
         }
       ]
