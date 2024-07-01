@@ -1,6 +1,6 @@
 {
   "name": "Magisk Modules Alt Repo (mirror)",
-  "timestamp": 1719263595090,
+  "timestamp": 1719868427533,
   "metadata": {
     "homepage": "https://github.com/MRepoApp/magisk-modules-alt-repo",
     "support": "https://github.com/MRepoApp/magisk-modules-alt-repo/issues"
@@ -557,8 +557,8 @@
     {
       "id": "drc-remover",
       "name": "DRC remover",
-      "version": "v1.2.3",
-      "version_code": 1203,
+      "version": "v1.2.4",
+      "version_code": 1204,
       "author": "zyhk",
       "description": "A remover of DRC (Dynamic Range Control, i.e., compression) sticking to all audio outputs on some major devices.",
       "metadata": {
@@ -567,6 +567,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/issues"
       },
       "versions": [
+        {
+          "timestamp": 1719401720000,
+          "version": "v1.2.4 (1204)",
+          "version_code": 1204,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/drc-remover/1204.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/drc-remover/1204.md"
+        },
         {
           "timestamp": 1713443884000,
           "version": "v1.2.3 (1203)",
@@ -1520,8 +1527,8 @@
     {
       "id": "resampling-for-cheapies",
       "name": "Resampling for cheapies",
-      "version": "v1.0.1",
-      "version_code": 1001,
+      "version": "v1.0.2",
+      "version_code": 1002,
       "author": "zyhk",
       "description": "For avoiding muddy distortion specific to LDAC Bluetooth earphones and DAC's under $30 (probably), this sets special re-sampling at the system-wide mixer.",
       "metadata": {
@@ -1530,6 +1537,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/issues"
       },
       "versions": [
+        {
+          "timestamp": 1719406668000,
+          "version": "v1.0.2 (1002)",
+          "version_code": 1002,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/resampling-for-cheapies/1002.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/resampling-for-cheapies/1002.md"
+        },
         {
           "timestamp": 1718346366000,
           "version": "v1.0.1 (1001)",
@@ -1695,8 +1709,8 @@
     {
       "id": "StevenBlock",
       "name": "StevenBlock | Anti-Malware & Ad Blocker",
-      "version": "v1.1.8",
-      "version_code": 19,
+      "version": "v1.2.0",
+      "version_code": 21,
       "author": "𝗪𝗜𝗡𝗭𝗢𝗥𝗧",
       "description": "StevenBlock protects your device from malware and unwanted ads. This Magisk module keeps your browsers and apps safe from malicious content, so you can enjoy a clean and smooth internet experience.",
       "metadata": {
@@ -1706,6 +1720,13 @@
         "support": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/issues"
       },
       "versions": [
+        {
+          "timestamp": 1719868401846,
+          "version": "v1.2.0 (21)",
+          "version_code": 21,
+          "zip_url": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/21.zip",
+          "changelog": "https://raw.githubusercontent.com/MRepoApp/magisk-modules-alt-repo/main/modules/StevenBlock/21.md"
+        },
         {
           "timestamp": 1719068434104,
           "version": "v1.1.8 (19)",

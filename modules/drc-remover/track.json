@@ -2,12 +2,19 @@
   "module": {
     "id": "drc-remover",
     "name": "DRC remover",
-    "version": "v1.2.3",
-    "version_code": 1203,
+    "version": "v1.2.4",
+    "version_code": 1204,
     "author": "zyhk",
     "description": "A remover of DRC (Dynamic Range Control, i.e., compression) sticking to all audio outputs on some major devices."
   },
   "versions": [
+    {
+      "timestamp": 1719401720000,
+      "version": "v1.2.4 (1204)",
+      "version_code": 1204,
+      "zip_file": "1204.zip",
+      "changelog": "1204.md"
+    },
     {
       "timestamp": 1713443884000,
       "version": "v1.2.3 (1203)",
